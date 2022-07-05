@@ -1,6 +1,6 @@
 # **KS0464 Keyestudio Smart Little Turtle Robot V3**
 
-![464](media/78ea489a5ebfbfadfdf6d6e18dc5330b.png)
+![](media/78ea489a5ebfbfadfdf6d6e18dc5330b.png)
 
 ## 1. Introduction
 
@@ -25,23 +25,23 @@ detailed knowledge about sensors and modules.
 Moreover, it is the best choice if you intend to obtain a DIY robot for learning
 programming, entertainment and competition.
 
-**2. Features**
+## 2. Features
 
-1.  Multi-purpose function: Multi-purpose function: Obstacle avoidance,
+Multi-purpose function: Multi-purpose function: Obstacle avoidance,
     following, IR remote control, Bluetooth control, ultrasonic following and
     facial emoticons display.
 
-2\. Simple assembly: No soldering circuit required, complete assembly easily.
+Simple assembly: No soldering circuit required, complete assembly easily.
 
-3\. High Tenacity: Aluminum alloy bracket, metal motors, high quality wheels and
+High Tenacity: Aluminum alloy bracket, metal motors, high quality wheels and
 tracks
 
-4\. High extension: expand other sensors and modules through motor driver shield
+High extension: expand other sensors and modules through motor driver shield
 and sensor shield
 
-5\. Multiple controls: IR remote control, App control(iOS and Android system)
+Multiple controls: IR remote control, App control(iOS and Android system)
 
-1.  Basic programming：C language code of Arduino IDE.
+Basic programming：C language code of Arduino IDE.
 
 ## 3. Specification
 
@@ -69,49 +69,8 @@ Bluetooth control: support Android and iOS system
 
 ## 4. Product Kit
 
-![](media/f5ce86ba90338a516c8bb5a8f134491e.png)
 
-| **\##** | **Product Name**                                         | **QTY** | **Picture**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-|--------|----------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1      | Keyestudio V4.0 Board(UNO compatible)                    | 1       |  ![](media/41a5e2565dcddd7f922429232fd69bf5.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 2      | Keyestudio Quick Connectors Motor  Driver Shield         | 1       | ![ks0364-1](media/d3582f3350a4cc87b6dd21214215eca6.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 3      | Keyestudio Quick Connectors IR Receiver                  | 1       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 4      | Keyestudio Quick Connectors Line  Tracking Sensor        | 1       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 5      | Keyestudio Quick Motor Connector A                       | 1       | ![QQ图片20190620093406](media/f894af32c9e8461e27fd93b5f3997a1e.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 6      | Keyestudio Quick Motor Connector B                       | 1       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 7      | Keyestudio 8\*8  Dot Matrix Module                       | 1       | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 8      | Keyestudio Quick Connectors  Ultrasonic Module           | 1       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 9      | Keyestudio Bluetooth Module(HC-06)                       | 1       | ![ks0364-1](media/d3582f3350a4cc87b6dd21214215eca6.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 10     | Keyestudio JMFP-4 17 Remote Control（without batteries） | 1       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 11     | 15CM 5P 24AWG Wire                                       | 1       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 12     | 8CM 4P 24AWG Wire                                        | 1       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 13     | 8CM 3P 24AWG Wire                                        | 1       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 14     | 160mm 2P 24AW Wire                                       | 2       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 15     | Battery Holder with JST-PH2.0MM-2P Lead                  | 1       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 16     | 4 Slot AA Battery Holder                                 | 1       | ![组 2](media/389b2acc0c041e311a37739779a52d0a.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 17     | M2\*12MM Round  Head Screws                              | 4       | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 18     | M2 Nickel Plated Nuts                                    | 4       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| 19     | M3\*6MM Round  Head Screws                               | 27      | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg) |
-| 20     | M3\*6MM Flat Head Screws                                 | 2       | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 21     | M3 Nickel Plated Nuts                                    | 5       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 22     |  M3\*10MM Hexagon Copper Bush                            | 8       | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 23     | M3\*40MM Hexagon Copper Bush                             | 4       | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 24     | Keyestudio 9G Servo                                      | 1       | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 25     | N20 Motor Wheel                                          | 2       | ![8-6 (52)](media/a1a1b335a1fcc2c479407bc3b2409598.png)![8-6 (52)](media/a1a1b335a1fcc2c479407bc3b2409598.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 26     | N20 Motor U Type Mount                                   | 2       | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 27     | Black Plastic Platform                                   | 1       | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 28     | 3PI MiniQ Universal Caster                               | 2       | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 29     | 3\*40MM Black-yellow Screwdriver                         | 1       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 30     | 1m Transparent Blue  USB Cable                           | 1       | ![无字](media/635b8724dc3e7a27f940b3953ed4536d.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 31     | 3\*100MM Black Ties                                      | 5       | ![71 (2)](media/ef6537400ab25a3e7a6156384f365c4f.jpeg)![71 (2)](media/ef6537400ab25a3e7a6156384f365c4f.jpeg)![71 (2)](media/ef6537400ab25a3e7a6156384f365c4f.jpeg)![71 (2)](media/ef6537400ab25a3e7a6156384f365c4f.jpeg)![71 (2)](media/ef6537400ab25a3e7a6156384f365c4f.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 32     | Turtle Robot Baseboard                                   | 1       | ![图层 1](media/bab62fea58504b0951fecd25bf1bdfd4.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 33     | Turtle Robot Top Board                                   | 1       | ![ks0364-keyestudio 智能小乌龟套件v2.0-16](media/f9d2390aa4985fc4fbb37a28c75d55af.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 34     | F-F 20CM/40P Dupont Cable                                | 0.1     | ![图层 111](media/770b25c590d38a50792f1aa533f75caf.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 35     |  20cm 3pin F-F  Dupont Cable                             | 1       | ![](media/bad041b053825940869213d9f431ef96.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 36     | Keyestudio Red LED Module                                | 1       | ![KS0232 (5)](media/a2c99201a8795afee2be0a1011cc9ddd.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 37     | Decorative Board                                         |         | ![](media/0bc4857c242851f3abcef83bc854bf22.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-
-**5. Assembly Guide**
+## 5. Assembly Guide
 
 **Note: Peel the plastic film off the board first when installing the smart car.
 To be honest, we never intend to send wood to you.**
@@ -484,7 +443,7 @@ Note: (G), marked on each sensor and module, is the negative pole and connected
 to “G”, ”-”or “GND”on the sensor shield or control board ; (V) is the positive
 pole and linked with V , VCC, + or 5V on the sensor shield or control board.
 
-**Project 1: LED Blink**
+### **Project 1: LED Blink**
 
 1.  **Description**
 
@@ -553,7 +512,7 @@ delay(1000); // wait for a second
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 1.  **Test Result：**
 
@@ -610,7 +569,7 @@ delay(100); // wait for 0.1 second
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 The test result shows that the LED flashes faster. Therefore, pins and time
 delaying affect flash frequency.
@@ -822,7 +781,7 @@ delay (30); // delay 50MS
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 Upload the code to development board, then LED blinks more slowly.
 
@@ -933,7 +892,7 @@ delay(500);// delay in between reads for stability
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 1.  Test Result：
 
@@ -1043,7 +1002,7 @@ digitalWrite(9, LOW);//LED is off
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 Upload the code to development board, then we could find LED light up when
 covering the line tracking sensor by hand
@@ -1179,7 +1138,7 @@ rest of time
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 Upload code successfully, then servo swings back in the range of 0° to 180°
 
@@ -1242,7 +1201,7 @@ delay(15); // waits 15ms for the servo to reach the position
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//\
 
 1.  **Test Result：**
 
@@ -1425,7 +1384,7 @@ delay(250);
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//\
 
 1.  **Test Result**
 
@@ -1559,7 +1518,7 @@ digitalWrite(9, LOW);
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 Upload test code to development board and block ultrasonic sensor by hand, then
 check if LED is on
@@ -1683,7 +1642,7 @@ delay(100);
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 1.  Test Result：
 
@@ -1788,7 +1747,7 @@ irrecv.resume(); // receive the next value
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 Upload code to development board, press“OK”key on remote control to make LED on
 and off.
@@ -1903,7 +1862,7 @@ Serial.println(ble_val); //Print
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//\
 
 (There will be contradiction between serial communication of code and
 communication of Bluetooth when uploading code. Therefore, don’t link Bluetooth
@@ -2052,7 +2011,7 @@ Serial.println("led off");
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 ![](media/7ca5796ab9faf4a9513da8bf8d0c1104.png)![](media/767ed0b7d1876e63ff109d8a355209ac.png)
 
@@ -2224,7 +2183,7 @@ delay(2000);// delay in 2000ms
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 1.  **Test Result：**
 
@@ -2344,7 +2303,7 @@ delay(2000);//delay in 2000ms
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//\
 
 After uploading the code successfully, do you find the motors rotate faster?
 
@@ -2536,7 +2495,7 @@ myMatrix.writeDisplay(); // dot matrix shows
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 **(8) Test Result**
 
@@ -2632,7 +2591,7 @@ myMatrix.writeDisplay(); // dot matrix shows
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//\
 
 Uploading code, plugging in and turning on the robot car, 8\*8 dot matrix shows
 the heart-shaped pattern.
@@ -2897,7 +2856,7 @@ analogWrite(right_pwm,0);
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 1.  **Test Result**
 
@@ -3086,7 +3045,7 @@ analogWrite(right_pwm,0);
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 1.  **Test Result**
 
@@ -4141,7 +4100,7 @@ myMatrix.writeDisplay();
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 1.  **Test Result**
 
@@ -4803,7 +4762,7 @@ myMatrix.writeDisplay();
 
 }
 
-//\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+//
 
 **（5）Test Result**
 
@@ -4812,7 +4771,7 @@ robot car can not only go forward and back but turn left and right. Moreover, it
 is known that the mobile APP, connected to Bluetooth successfully, can be used
 to control the movement of the car.
 
-## Resources
+## 8.Resources
 
 Wiki page: <https://wiki.keyestudio.com/Main_Page>
 
