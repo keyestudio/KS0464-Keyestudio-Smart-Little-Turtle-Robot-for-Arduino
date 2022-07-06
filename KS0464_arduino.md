@@ -1285,15 +1285,15 @@ time. However, the ultrasonic wave emits and comes back, which is 2 times of
 distance. Therefore, it needs to be divided by 2, the distance measured by
 ultrasonic wave = (speed \* time)/2
 
-| Use method and timing chart of ultrasonic module: Setting the delay time of
+Use method and timing chart of ultrasonic module: Setting the delay time of
 Trig pin of SR04 to 10μs at least, which can trigger it to detect distance. 2.
 After triggering, the module will automatically send eight 40KHz ultrasonic
  pulses and detect whether there is a signal return. This step will be completed
   automatically by the module. 3. If the signal returns, the Echo pin will
   output a high level, and the duration of the high level is the time from
   the transmission of the ultrasonic wave to the return.
-  ![](media/ba43be6007d9fe3aab0bb609868af640.png) |
-|-----------|
+![](media/ba43be6007d9fe3aab0bb609868af640.png) 
+
 
 Circuit diagram of ultrasonic sensor:
 
@@ -3845,8 +3845,8 @@ displayed as shown below:
 
 ![](media/ce9d3b7ef40230c2e98e30ad3c72959c.png)
 
-| ![Screenshot_2019-06-17-08-21-55-51](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Pair HM-10 Bluetooth module     |
-|----------------------------------------------------------------------------------|---------------------------------|
+| ![Screenshot_2019-06-17-08-21-55-51](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Pair HM-10 Bluetooth module     |                                 |
+|----------------------------------------------------------------------------------|---------------------------------|---------------------------------|
 | ![](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Enter control page of Bluetooth |                                                                 |
 | ![](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Disconnect Bluetooth            |                                                                 |
 | ![](media/0120eb9e4233723148bfda458bb9746a.png) | Press: F Release: S             | Press the button, robot goes front; release to stop             |
