@@ -57,7 +57,7 @@ Motor speed: 5V 63 rpm/min
 
 Motor drive mode: dual H bridge drive
 
-Ultrasonic induction angle: \<15 degrees
+Ultrasonic induction angle: <15 degrees
 
 Ultrasonic detection distance: 2cm-400cm
 
@@ -79,17 +79,17 @@ To be honest, we never intend to send wood to you.**
 
 Prepare the parts as follows:
 
--   M3\*6MM Round Head Screw \*2
+-   M3*6MM Round Head Screw *2
 
--   M3\*6MM Flat Head Screw \*2
+-   M3*6MM Flat Head Screw *2
 
--   M3 Nickel Plated Nut \*2
+-   M3 Nickel Plated Nut *2
 
--   Bottom PCB\*1
+-   Bottom PCB*1
 
--   Tracking Sensor \*1
+-   Tracking Sensor *1
 
--   Universal Caster \*2
+-   Universal Caster *2
 
 ![](media/88e38606d781b397a01dda7c9a8fbfc0.png)
 
@@ -100,27 +100,27 @@ Prepare the parts as follows:
 
 Prepare the parts as follows:
 
--   M3\*6MM Round Head Screw \*2
+-   M3*6MM Round Head Screw *2
 
--   M2 Nut \*4
+-   M2 Nut *4
 
--   12FN20 Motor \*2
+-   12FN20 Motor *2
 
--   U-type Holder\* 2
+-   U-type Holder* 2
 
--   N20 Motor Wheel \*2
+-   N20 Motor Wheel *2
 
--   2P Wire \*2
+-   2P Wire *2
 
--   5P Wire \*1
+-   5P Wire *1
 
--   M2\*12MM Round Head Screw \*4
+-   M2*12MM Round Head Screw *4
 
--   2-cell AA Battery Holder \*1
+-   2-cell AA Battery Holder *1
 
--   M3\*6M Flat Head Screw \*2
+-   M3*6M Flat Head Screw *2
 
--   M3 Nut \*2
+-   M3 Nut *2
 
 ![](media/ec298ef9e65d4d8ddf3a13cf3071a474.png)![](media/58500fdcea9554df685f22feecff4a44.png)
 
@@ -130,15 +130,15 @@ Prepare the parts as follows:
 
 Prepare the parts as follows:
 
--   Top PCB \*1
+-   Top PCB *1
 
--   M3 Nut \*1
+-   M3 Nut *1
 
--   M3\*6MM Round Head Screw \*9
+-   M3*6MM Round Head Screw *9
 
--   M3\*10MM Hexagon Copper Bush \*8
+-   M3*10MM Hexagon Copper Bush *8
 
--   IR Receiver Sensor \*1
+-   IR Receiver Sensor *1
 
 ![](media/3181f125bb86f308b6f2225dd568d11e.png)
 
@@ -146,11 +146,11 @@ Prepare the parts as follows:
 
 Prepare the parts as follows:
 
--   V4.0 Board\*1
+-   V4.0 Board*1
 
--   Motor Drive Shield V2\*1
+-   Motor Drive Shield V2*1
 
--   M3\*6MM Round Head Screw \*4
+-   M3*6MM Round Head Screw *4
 
 ![](media/aab04e120897037ba637f684ea2c8fcd.png)![](media/e0a59715a1c7a65a96fac1528d4a953c.png)
 
@@ -158,39 +158,39 @@ Prepare the parts as follows:
 
 Prepare the parts as follows:
 
--   Servo \*1
+-   Servo *1
 
--   M2\*4 Screw \*1
+-   M2*4 Screw *1
 
--   Black Tie\*2
+-   Black Tie*2
 
--   Ultrasonic Sensor\*1
+-   Ultrasonic Sensor*1
 
--   Black Plastic Platform \*1
+-   Black Plastic Platform *1
 
--   M1.2\*4 Tapping Screw \*4
+-   M1.2*4 Tapping Screw *4
 
--   M2\*8 Tapping Screw \*2
+-   M2*8 Tapping Screw *2
 
-![图片8](media/b86186c2d44737305a389a887da27ac7.png)![](media/4988b1d4680b02c334af9a17084fb86d.png)![](media/22c91ff96312ceb35e347f2e2a14570b.png)![](media/bbbdf73ca24e03593b81e29350cab14c.png)![](media/e7d50aeef7f45e7ad027c12e0bf816cf.png)
+![](media/b86186c2d44737305a389a887da27ac7.png)![](media/4988b1d4680b02c334af9a17084fb86d.png)![](media/22c91ff96312ceb35e347f2e2a14570b.png)![](media/bbbdf73ca24e03593b81e29350cab14c.png)![](media/e7d50aeef7f45e7ad027c12e0bf816cf.png)
 
 **Step 6: Final Assembly**
 
 Prepare the parts as follows:
 
--   M3\*6MM Round Head Screw \*12
+-   M3*6MM Round Head Screw *12
 
--   M3\*40MM Hexagon Copper Bush\*4
+-   M3*40MM Hexagon Copper Bush *4
 
--   8x8 Dot Matrix \*1
+-   8x8 Dot Matrix *1
 
--   Jumper Wire \*4
+-   Jumper Wire *4
 
 ![](media/4a5a51938ed5966a7dfddbbbd24ccb06.png)![](media/d325c459fd69dfc1fd5da47195fac41d.png)![](media/a81dbd96dd8a30eb91f3d632f82da40e.png)![](media/5ea9f63d18f3094e627d2d8b00d40968.png)
 
 **Step 7: Hook-up Guide**
 
-![图片1](media/b696f8b93e9cebe2475ae065f3e1fd7f.png)![](media/ec953931a988c9d5f05fa9329d1fe26b.png)![](media/78ec041c0cdfac7ce022d933d502008e.png)![](media/802c838b592dd6adec23950d3ca4ef2b.png)![](media/18207632bb4be8e2678af744566b5e06.png)
+![](media/b696f8b93e9cebe2475ae065f3e1fd7f.png)![](media/ec953931a988c9d5f05fa9329d1fe26b.png)![](media/78ec041c0cdfac7ce022d933d502008e.png)![](media/802c838b592dd6adec23950d3ca4ef2b.png)![](media/18207632bb4be8e2678af744566b5e06.png)
 
 ## 6. Getting Started with Arduino
 
@@ -223,18 +223,18 @@ Click JUST DOWNLOAD.
 You need to know that keyestudio V4.0 development board is the core of this
 smart turtle robot .
 
-![UNO](media/4a9093e1b4ad333c296aa18441ca3c0e.png)
+![](media/4a9093e1b4ad333c296aa18441ca3c0e.png)
 
 Keyestudio V4.0 development board is an Arduino uno -compatible board, which is
 based on ATmega328P MCU, and with a cp2102 Chip as a UART-to-USB converter.
 
-![KS0497 新主板_画板 1](media/308315eef3c603cdf0e8babfc4d9c297.jpeg)
+![](media/308315eef3c603cdf0e8babfc4d9c297.jpeg)
 
 It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6
 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, 2 ICSP
 headers and a reset button.
 
-![0428---1000](media/e1093c916a30a1f2a84ef3b01a77696b.png)
+![](media/e1093c916a30a1f2a84ef3b01a77696b.png)
 
 It contains everything needed to support the microcontroller; simply connect it
 to a computer with a USB cable or power it via an external DC power jack (DC
@@ -267,18 +267,18 @@ If you install it unsuccessfully, or intend to install it manually, please open
 the device manager of computer. Right click Computer----- Properties----- Device
 Manager
 
-![捕获](media/afa5b0dde9342bd7ad9f385333cb6f55.png)
+![](media/afa5b0dde9342bd7ad9f385333cb6f55.png)
 
 The yellow exclamation mark on the page implies an unsuccessful installation and
 you should double click the hardware and update the driver.
 
-![捕获1](media/c26ca0ef1bf1506c815b6e3e239cf525.png)
+![](media/c26ca0ef1bf1506c815b6e3e239cf525.png)
 
 Click“OK”to enter the following page, click“browse my computer for updated
 driver software”, find the installed or downloaded ARDUINO software. As shown
 below:
 
-![捕获7](media/4ec7a5ea3c8a1fd9663eef4768b687c5.png)
+![](media/4ec7a5ea3c8a1fd9663eef4768b687c5.png)
 
 There is a DRIVERS folder in Arduino software installed
 package（![](media/f50a31a59716594afbd7c2254cfd521e.png)）, open driver folder
@@ -289,14 +289,14 @@ search in rectangular box, then click“next”, the driver will be installed
 successfully. (I place Arduino software folder on the desktop, you could follow
 my suit.)
 
-![QQ图片20200527114448](media/417de936fa9720c7a7427c4d07718292.png)
+![](media/417de936fa9720c7a7427c4d07718292.png)
 
 Open device manager, you will find the yellow exclamation mark disappear. The
 driver of CP2102 is installed successfully.
 
-![图2(1)](media/efce0ba96c48d853f302730b4d481ee9.jpeg)
+![](media/efce0ba96c48d853f302730b4d481ee9.jpeg)
 
-![图1(2)](media/2f751d5f4e4c0c18fa862c589eaaf0da.jpeg)
+![](media/2f751d5f4e4c0c18fa862c589eaaf0da.jpeg)
 
 1.  **Install other visions of driver**
 
@@ -413,7 +413,7 @@ of Arduino IDE.
 
 Find the option "Open file location" shown as below:
 
-[![IMG_256](media/f1d5fd3883e0997ca46dcf8513733c46.png)](http://wiki.keyestudio.com/index.php/File:Libraries_1.png)
+[![](media/f1d5fd3883e0997ca46dcf8513733c46.png)](http://wiki.keyestudio.com/index.php/File:Libraries_1.png)
 
 **Step 2:** Enter it to find out libraries folder, this folder is the library
 file of Arduino.
@@ -430,7 +430,7 @@ into the libraries folder of Arduino IDE.
 
 Then the libraries of turtle robot are installed successfully, as shown below:
 
-![QQ截图20201013091741](media/fbbf98644e2391da69aaece3d59490fa.png)
+![](media/fbbf98644e2391da69aaece3d59490fa.png)
 
 ## 7. Projects
 
@@ -471,7 +471,7 @@ if S end is in high level; nevertheless, it will go off.
 
 1.  **Wiring Diagram**
 
-![未命名 -1](media/bd05816bd2764b18d9315fc2e6405a0f.png)
+![](media/bd05816bd2764b18d9315fc2e6405a0f.png)
 
 The expansion board is stacked on development board; LED module is connected to
 G of shield;“+”is linked with 5V and S end is attached to D9.
@@ -576,7 +576,9 @@ delaying affect flash frequency.
 
 **Project 2: Adjust LED Brightness**
 
-![led-lights](media/7541db758dbca2c2a100b2b0227f9af4.jpeg)**(1) Description**
+![](media/7541db758dbca2c2a100b2b0227f9af4.jpeg)
+
+**(1) Description**
 
 In previous lesson, we control LED on and off and make it blink.
 
@@ -591,7 +593,7 @@ output.In general, the input voltages of ports are 0V and 5V. What if the 3V is
 required? Or a switch among 1V, 3V and 3.5V? We cannot change resistors
 constantly. For this reason, we resort to PWM.
 
-![0_LPC1768_PWM](media/bbcfcb9ae56abb7e80ee587246fc4be9.GIF)
+![](media/bbcfcb9ae56abb7e80ee587246fc4be9.GIF)
 
 For the Arduino digital port voltage output, there are only LOW and HIGH, which
 correspond to the voltage output of 0V and 5V. You can define LOW as 0 and HIGH
@@ -610,7 +612,7 @@ more 0,1 signals output per unit time, the more accurately control.
 
 1.  **Hook-up Diagram**
 
-![未命名 -1](media/bd05816bd2764b18d9315fc2e6405a0f.png)
+![](media/bd05816bd2764b18d9315fc2e6405a0f.png)
 
 1.  **Test Code：**
 
@@ -671,7 +673,7 @@ To repeat some certain statements, we could use FOR statement.
 
 FOR statement format is shown below:
 
-![图1(1)](media/65da124bdd0ea488291c71c6b879fe95.jpeg)
+![](media/65da124bdd0ea488291c71c6b879fe95.jpeg)
 
 FOR cyclic sequence:
 
@@ -719,7 +721,7 @@ pulse width, so PWM is also called pulse width modulation.
 
 Through the following five square waves, let’s acknowledge more about PWM.
 
-![C:\\Users\\zuokejian\\AppData\\Local\\Temp\\ksohtml13604\\wps19.png](media/553f3d1b6ca04e1aa0479841dd075fa2.png)
+![](media/553f3d1b6ca04e1aa0479841dd075fa2.png)
 
 In the above figure, the green line represents a period, and value of
 analogWrite() corresponds to a percentage which is called Duty Cycle as well.
@@ -789,7 +791,7 @@ Upload the code to development board, then LED blinks more slowly.
 
 1.  **Description**
 
-![寻迹](media/d37c24e508361ab86b019135ab6950a9.png)The tracking sensor is
+![](media/d37c24e508361ab86b019135ab6950a9.png)The tracking sensor is
 actually an infrared sensor. The component used here is the TCRT5000 infrared
 tube.
 
@@ -824,11 +826,11 @@ OFF, the sensitivity is the best.
 
 ![](media/48018bebb628ebf41533cc7f2494ae0e.png)
 
-![02](media/0b3433af5abda1ab4137e2c078e4b8e7.jpeg)
+![](media/0b3433af5abda1ab4137e2c078e4b8e7.jpeg)
 
 **(4) Connection Diagram：**
 
-![未命名 -1](media/352a7a13f9a8c3ea706bb2a01932d4b4.png)
+![](media/352a7a13f9a8c3ea706bb2a01932d4b4.png)
 
 1.  **Test Code**
 
@@ -915,7 +917,7 @@ the sensor is covered with paper.
 After knowing its working principle, you can connect an LED to D9 so as to
 control LED by it.
 
-![未命名 -1](media/7cee76af098561b7f521ab088f6e6da9.png)
+![](media/7cee76af098561b7f521ab088f6e6da9.png)
 
 **Test Code**
 
@@ -1009,7 +1011,7 @@ covering the line tracking sensor by hand
 
 **Project 4: Servo Control**
 
-![IMG_256](media/ae51208a3f560ad6edefe370eb588c13.png)
+![](media/ae51208a3f560ad6edefe370eb588c13.png)
 
 1.  **Description**
 
@@ -1032,7 +1034,7 @@ it's between 0.5ms-2.5ms. The width corresponds the rotation angle from 0° to
 180°. But note that for different brand motor, the same signal may have
 different rotation angle.
 
-![180度舵机](media/49467dfa70799401a5a5acc691014aee.png)
+![](media/49467dfa70799401a5a5acc691014aee.png)
 
 The corresponding servo angles are shown below:
 
@@ -1062,7 +1064,7 @@ The corresponding servo angles are shown below:
 
 1.  **Connection Diagram：**
 
-![KS0470-1](media/7bc5ceb2e32422cd166e3ce9904510b4.png)
+![](media/7bc5ceb2e32422cd166e3ce9904510b4.png)
 
 Wiring note: the brown line of servo is linked with Gnd(G), the red one is
 connected to 5v(V) and the orange one is attached to digital 10.
@@ -1149,7 +1151,7 @@ following link of official website is for your reference.
 
 The library file of servo is used in the following code
 
-![KS0470-1](media/7bc5ceb2e32422cd166e3ce9904510b4.png)
+![](media/7bc5ceb2e32422cd166e3ce9904510b4.png)
 
 1.  **Test Code2:**
 
@@ -1283,16 +1285,23 @@ time. However, the ultrasonic wave emits and comes back, which is 2 times of
 distance. Therefore, it needs to be divided by 2, the distance measured by
 ultrasonic wave = (speed \* time)/2
 
-| Use method and timing chart of ultrasonic module: Setting the delay time of Trig pin of SR04 to 10μs at least, which can trigger it to detect distance. 2. After triggering, the module will automatically send eight 40KHz ultrasonic pulses and detect whether there is a signal return. This step will be completed automatically by the module. 3. If the signal returns, the Echo pin will output a high level, and the duration of the high level is the time from the transmission of the ultrasonic wave to the return. ![](media/ba43be6007d9fe3aab0bb609868af640.png) |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Use method and timing chart of ultrasonic module: Setting the delay time of
+Trig pin of SR04 to 10μs at least, which can trigger it to detect distance. 2.
+After triggering, the module will automatically send eight 40KHz ultrasonic
+ pulses and detect whether there is a signal return. This step will be completed
+  automatically by the module. 3. If the signal returns, the Echo pin will
+  output a high level, and the duration of the high level is the time from
+  the transmission of the ultrasonic wave to the return.
+  ![](media/ba43be6007d9fe3aab0bb609868af640.png) |
+|-----------------------------------------------------------------------------|
 
 Circuit diagram of ultrasonic sensor:
 
-![图片1hi;.hkl;hlhjl](media/a25028af84d6c7c94382c2a907101241.jpeg)
+![](media/a25028af84d6c7c94382c2a907101241.jpeg)
 
 **(5) Connection Diagram**
 
-**![图片1](media/746e1a27cbb0b4ea314fa2cf18f98442.png)**
+**![](media/746e1a27cbb0b4ea314fa2cf18f98442.png)**
 
 Wiring guide:
 
@@ -1422,7 +1431,7 @@ We have just measured the distance displayed by the ultrasonic. How about
 controlling the LED with the measured distance? Let's try it and connect an LED
 light module to the D3 pin.
 
-![图片9](media/c949128ff9323a4c2469ccefa734eedb.png)
+![](media/c949128ff9323a4c2469ccefa734eedb.png)
 
 /\*
 
@@ -1582,7 +1591,7 @@ Receiving Distance: 10m
 
 (4) Connection Diagram
 
-![未命名 -1](media/c9446c40a81aa7347e3c490c189dc7c6.png)
+![](media/c9446c40a81aa7347e3c490c189dc7c6.png)
 
 Respectively link“-”,“+”and S of IR receiver module with G(GND）, V（VCC）and A0
 of keyestudio development board.
@@ -1654,7 +1663,7 @@ is pressed too long, the error codes will appear.
 
 The keys value of Keyestudio remote control are shown below.
 
-![图形1](media/ebcf0cb2055f7784505f76ceeaef9f47.jpeg)
+![](media/ebcf0cb2055f7784505f76ceeaef9f47.jpeg)
 
 1.  Code Explanation
 
@@ -1674,7 +1683,7 @@ measured value? We could design an experiment.
 Attach an LED to D3, then press the keys of remote control to make LED light on
 and off.
 
-![未命名 -1](media/fe100b9ca4774cea8800901786866ffa.png)
+![](media/fe100b9ca4774cea8800901786866ffa.png)
 
 /\*
 
@@ -1820,7 +1829,7 @@ unconnected.*
 **6. EN/BRK:** *break connect, it means breaking the Bluetooth connection,
 generally, keep it unconnected.*
 
-![KS0470-1](media/e9c84ec9c1c91febe793e615364ea860.png)
+![](media/e9c84ec9c1c91febe793e615364ea860.png)
 
 **Pay attention to the pin direction when inserting Bluetooth module, and don’t
 insert it before uploading test code.**
@@ -1908,7 +1917,7 @@ Then click “connect” to link it with Bluetooth
     information, access permission, general and custom service. Choose “CUSTOM
     SERVICE”
 
-![1C21726267A81642D998D66DD8AC84FF](media/c96a93021bc5cf13bb92248c9db8096e.jpeg)
+![](media/c96a93021bc5cf13bb92248c9db8096e.jpeg)
 
 1.  Then the following page pops up.
 
@@ -1947,7 +1956,7 @@ We could send a command via Bluetooth to turn a LED on and off.
 
 D9 is connected to a LED, as shown below:
 
-![KS0470-1](media/cd4b6112e9a5a7cd6dba8560e82a1dc5.png)
+![](media/cd4b6112e9a5a7cd6dba8560e82a1dc5.png)
 
 /\*
 
@@ -2034,7 +2043,7 @@ We designed a shield based on the circuit of L298p.
 The stacked design reduces the technical difficulty of using and driving the
 motor.
 
-![KS0435-原理图-更新后](media/37a9554f23912e4571f0c4a05b642db4.jpeg)![XIZ%FTM%)L40XUELPBK6C\~B](media/1ceaba5e2ad07d71de2e6267e39e9205.jpeg)
+![](media/37a9554f23912e4571f0c4a05b642db4.jpeg)![](media/1ceaba5e2ad07d71de2e6267e39e9205.jpeg)
 
 **(2) Specification**
 
@@ -2077,7 +2086,7 @@ number, the faster the rotation of the motor.
 
 (5) Connection Diagram
 
-![未命名 -1](media/705ebdc73ea2cfdae5b6ab409981a62f.png)
+![](media/705ebdc73ea2cfdae5b6ab409981a62f.png)
 
 (6) Test Code：
 
@@ -2309,7 +2318,7 @@ After uploading the code successfully, do you find the motors rotate faster?
 
 #### Project 9: 8\*8 LED Board
 
-1.  ![点阵](media/39e7674b01eff873f44f6c9bde810d62.png)**Description**
+1.  ![](media/39e7674b01eff873f44f6c9bde810d62.png)**Description**
 
 A fun way to make a small display is to use an 8x8 matrix or a 4-digit 7-segment
 display. Matrices like these are 'multiplexed' - to control 64 LEDs you need 16
@@ -2325,7 +2334,7 @@ for wiring and greatly save the resources of microcontroller.
 
 ![](media/29c96104108c351e9025820c343d4488.png)
 
-**![IMG_256](media/1bf7d5e8aad5a25b02212d6c20ac17a8.jpeg)(3) 8\*8 Dot Matrix**
+**![](media/1bf7d5e8aad5a25b02212d6c20ac17a8.jpeg)(3) 8\*8 Dot Matrix**
 
 Composed of LED emitting tube diodes, LED dot matrix are applied widely to
 public information display like advertisement screen and bulletin board, by
@@ -2341,7 +2350,7 @@ The 8×8 dot matrix contains 64 LEDs.
 
 The inner structure of 8×8 dot matrix is shown below.
 
-![图片4](media/df08c3a7c84497e429ce6fde7253d9b3.jpeg)
+![](media/df08c3a7c84497e429ce6fde7253d9b3.jpeg)
 
 Every LED is installed on the cross point of row line and column line. When the
 voltage on a row line increases, and the voltage on the column line reduces, the
@@ -2349,11 +2358,11 @@ LED on the cross point will light up. 8×8 dot matrix has 16 pins. Put the
 silk-screened side down and the numbers are 1,8, 9 and 16 in anticlockwise order
 as marked below.
 
-![IMG_258](media/6576aff8e8a7fb35335629c2f60de29b.jpeg)
+![](media/6576aff8e8a7fb35335629c2f60de29b.jpeg)
 
 The definition inner pins are shown below:
 
-![图片3](media/4b98c449bae6648d7719a58d9ab2efa7.jpeg)
+![](media/4b98c449bae6648d7719a58d9ab2efa7.jpeg)
 
 For instance, to light up the LED on row 1 and column 1, you should increase the
 voltage of pin 9 and reduce the voltage of pin 13.
@@ -2417,7 +2426,7 @@ is what will be displayed, so you need to save it for next procedure.
 
 1.  **Connection Diagram**
 
-**![图片7](media/494862d00a1805a9553d71fba058dd42.png)**
+**![](media/494862d00a1805a9553d71fba058dd42.png)**
 
 Note: The pin G, V, SDA and SCL of dot matrix module are separately connected to
 G, 5V, A4 and A5 of motor drive shield. Plug power to BAT interface.
@@ -2600,7 +2609,7 @@ the heart-shaped pattern.
 
 #### Project 10: Line Tracking Robot
 
-![ks0464-6](media/ad40150b9cd84f7848753cca5322a4c3.jpeg)
+![](media/ad40150b9cd84f7848753cca5322a4c3.jpeg)
 
 1.  **Description**
 
@@ -2673,11 +2682,11 @@ stop
 
 Flow Chart
 
-![IMG_256](media/3bef8ab0fb4bb48ea3221a68c5d88711.png)
+![](media/3bef8ab0fb4bb48ea3221a68c5d88711.png)
 
 1.  **Connection Diagram**
 
-**![未命名 -1](media/60af6e8eb33d08c832bc96a99b413261.png)**
+**![](media/60af6e8eb33d08c832bc96a99b413261.png)**
 
 1.  **Test Code**
 
@@ -2865,7 +2874,7 @@ on-button of the robot car. Turtle car walks along black lines.
 
 #### Project 11: Ultrasonic Follow Robot
 
-![ks0464-4](media/9dadf95320bb37fd2c4f35f5b03551d6.jpeg)
+![](media/9dadf95320bb37fd2c4f35f5b03551d6.jpeg)
 
 1.  Description
 
@@ -2889,11 +2898,11 @@ The specific logic of ultrasonic follow robot car is shown below:
 
 Flow Chart
 
-![tr7ikjrtskmrsgmdagmndfvm](media/dacd34550927c0957906e6d087fe075f.png)
+![](media/dacd34550927c0957906e6d087fe075f.png)
 
 ###### Hook-up Diagram
 
-**![图片6](media/abe7df1ee29f7be96a9f649d6b965239.png)**
+**![](media/abe7df1ee29f7be96a9f649d6b965239.png)**
 
 1.  **Test Code**
 
@@ -3056,7 +3065,7 @@ and backward).
 
 #### Project 12: Ultrasonic Avoiding Robot
 
-**![ks0464-2](media/df4f5338366adbe9b9f6a90e0c092013.jpeg)**
+**![](media/df4f5338366adbe9b9f6a90e0c092013.jpeg)**
 
 1.  **Description**
 
@@ -3082,11 +3091,11 @@ The specific logic of ultrasonic avoiding smart car is shown below:
 | Condition 1 | Status                                                                                                                          |                                                                                                           |
 | a≥10        | Go front（set PWM to 200）                                                                                                      |                                                                                                           |
 
-![0470 图片1](media/3747393f7352175d9ec7c7d1f1e34177.jpeg)
+![](media/3747393f7352175d9ec7c7d1f1e34177.jpeg)
 
 1.  **Connection Diagram**
 
-**![图片5](media/ee986d4d3ee435ab2cc5ec6de9122eb9.png)**
+**![](media/ee986d4d3ee435ab2cc5ec6de9122eb9.png)**
 
 1.  **Test Code**
 
@@ -3411,7 +3420,7 @@ avoid obstacles.
 
 #### Project 13: IR Remote Control Robot
 
-![ks0464-5](media/40c436f91b103dafa14c82c8459579a9.jpeg)
+![](media/40c436f91b103dafa14c82c8459579a9.jpeg)
 
 1.  Description
 
@@ -3442,11 +3451,11 @@ The specific logic of IR remote control robot car is shown below:
 
 **Flow Chart**
 
-![ks0511 红外遥控](media/fd6092e2d31a6859c229d8ca453b8107.png)
+![](media/fd6092e2d31a6859c229d8ca453b8107.png)
 
 1.  **Hook-up Diagram**
 
-**![图片4](media/17ddde5353e0f1a79d96cbd2cfabbe11.png)**
+**![](media/17ddde5353e0f1a79d96cbd2cfabbe11.png)**
 
 **Note: IR receiver is connected to P4 interface.**
 
@@ -3712,7 +3721,7 @@ move.
 
 #### Project 14: Bluetooth Remote Control
 
-**![ks0464-5](media/40c436f91b103dafa14c82c8459579a9.jpeg)**
+**![](media/40c436f91b103dafa14c82c8459579a9.jpeg)**
 
 1.  **Description**
 
@@ -3772,7 +3781,7 @@ Serial.println(BLE_val);
 Upload code to V4.0 development board, and connect to Bluetooth module, as shown
 below:
 
-**![7-1](media/db9a7a6fc30760817c564876b54274fd.png)**
+**![](media/db9a7a6fc30760817c564876b54274fd.png)**
 
 Insert a Bluetooth module, LED indicator of Bluetooth module will flash. Next,
 download the App.
@@ -3792,7 +3801,7 @@ Search keyes BT car in App store
 
 After installation, enter its interface.
 
-![img_0123](media/325f28e675877bf115831f9fe27c2cf7.png)
+![](media/325f28e675877bf115831f9fe27c2cf7.png)
 
 Click“Connect”to search and pair Bluetooth.
 
@@ -3801,7 +3810,7 @@ Click“Connect”to search and pair Bluetooth.
 5.Click![](media/48e7ddbeb652962defd1e715e6c4d8ab.png)to enter the main page of
 turtle smart car.
 
-![Screenshot_2019-07-08-11-38-45-27](media/fdb05c73cbee72d17a27d688dd5fe078.png)
+![](media/fdb05c73cbee72d17a27d688dd5fe078.png)
 
 **For Android System**
 
@@ -3816,11 +3825,11 @@ access“location”, you could enable “location”in settings of your cellpho
 
 2.  Click app to enter the following page.
 
-![Screenshot_2019-07-08-11-38-45-27](media/fdb05c73cbee72d17a27d688dd5fe078.png)
+![7(media/fdb05c73cbee72d17a27d688dd5fe078.png)
 
 1.  After connecting Bluetooth, plug in power and LED indicator of Bluetooth
     module will flicker. Tap
-    ![Screenshot_2019-06-17-08-21-55-51](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png)to
+    ![](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png)to
     search Bluetooth.
 
     ![](media/9d93124a2e11a8dff472d590f599657b.png)
@@ -3838,28 +3847,28 @@ displayed as shown below:
 
 | ![Screenshot_2019-06-17-08-21-55-51](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Pair HM-10 Bluetooth module     |                                                                 |
 |----------------------------------------------------------------------------------|---------------------------------|-----------------------------------------------------------------|
-| ![Screenshot_2019-06-17-08-21-55-51](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Enter control page of Bluetooth |                                                                 |
-| ![Screenshot_2019-06-17-08-21-55-51](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Disconnect Bluetooth            |                                                                 |
-| ![](media/0120eb9e4233723148bfda458bb9746a.png)                                  | Press: F Release: S             | Press the button, robot goes front; release to stop             |
-| ![](media/3e9d0a142cb6537bfe432534dd657927.png)                                  | Press: L Release: S             | Press the button, robot turns left; release to stop             |
-| ![](media/25d5d966e86ffd0e6176845ff3dafddb.png)                                  | Click to send “S”               | Stop                                                            |
-| ![](media/dca8d0e794facb76d888be1804b59595.png)                                  | Press: R Release: S             | Press the button, robot turns right; release to stop            |
-| ![](media/a5f9ff1d74a94c5a88638fd5467ddbd0.png)                                  | Press: B Release: S             | Press the button, robot goes back; release to stop              |
-| ![](media/74715a856e2db98d77928d885288be6a.png)                                  | Click to send “Y”               | Start Ultrasonic follow function; click Stop to exit            |
-| ![](media/96c3d0c1ada9f227f1e724f61d127831.png)                                  | ---                             | Click to start the mobile gravity sensing; click again to exit  |
-| ![](media/d9a74ccde731ab658ff520db3ab6a019.png)                                  | Click to send “U”               | Start ultrasonic avoiding function; click Stop to exit          |
-| ![](media/b1a132d0123a17c1a7524cbf89a9e966.png)                                  | Click to send “X”               | Start line tracking function; click Stop to exit                |
+| ![](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Enter control page of Bluetooth |                                                                 |
+| ![](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Disconnect Bluetooth            |                                                                 |
+| ![](media/0120eb9e4233723148bfda458bb9746a.png) | Press: F Release: S             | Press the button, robot goes front; release to stop             |
+| ![](media/3e9d0a142cb6537bfe432534dd657927.png) | Press: L Release: S             | Press the button, robot turns left; release to stop             |
+| ![](media/25d5d966e86ffd0e6176845ff3dafddb.png) | Click to send “S”               | Stop                                                            |
+| ![](media/dca8d0e794facb76d888be1804b59595.png) | Press: R Release: S             | Press the button, robot turns right; release to stop            |
+| ![](media/a5f9ff1d74a94c5a88638fd5467ddbd0.png) | Press: B Release: S             | Press the button, robot goes back; release to stop              |
+| ![](media/74715a856e2db98d77928d885288be6a.png) | Click to send “Y”               | Start Ultrasonic follow function; click Stop to exit            |
+| ![](media/96c3d0c1ada9f227f1e724f61d127831.png) | ---                             | Click to start the mobile gravity sensing; click again to exit  |
+| ![](media/d9a74ccde731ab658ff520db3ab6a019.png) | Click to send “U”               | Start ultrasonic avoiding function; click Stop to exit          |
+| ![](media/b1a132d0123a17c1a7524cbf89a9e966.png) | Click to send “X”               | Start line tracking function; click Stop to exit                |
 
 We have read the characters of each key on mobile APP via serial port and know
 the function of those keys.
 
 Flow Chart
 
-**![ks0511 蓝牙遥控](media/f945d744566c8526f46306f81317bbaa.png)**
+**![](media/f945d744566c8526f46306f81317bbaa.png)**
 
 1.  **Connection Diagram**
 
-**![图片3](media/b5aa3e25c49f517ddbacc385a117fd2d.png)**
+**![](media/b5aa3e25c49f517ddbacc385a117fd2d.png)**
 
 1.  **Test Code**
 
@@ -4115,7 +4124,7 @@ And the Bluetooth module can be reconnected after uploading code successfully.
 
 #### Project 15: Multi-purpose Bluetooth Robot
 
-![ks0464营销图](media/9e6d60298d26eac5830df5a59a573d35.jpeg)
+![](media/9e6d60298d26eac5830df5a59a573d35.jpeg)
 
 1.  **Description**
 
@@ -4125,11 +4134,11 @@ control.
 
 Here is a simple flow chart of this multi-purpose robot car for your reference.
 
-![图片10000000000000](media/350df6f452683134aca3b5b1a1fcf576.jpeg)
+![](media/350df6f452683134aca3b5b1a1fcf576.jpeg)
 
 1.  **Connection Diagram**
 
-**![图片1](media/b696f8b93e9cebe2475ae065f3e1fd7f.png)**
+**![](media/b696f8b93e9cebe2475ae065f3e1fd7f.png)**
 
 1.  **Test Code**
 
