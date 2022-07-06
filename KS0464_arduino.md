@@ -79,17 +79,17 @@ To be honest, we never intend to send wood to you.**
 
 Prepare the parts as follows:
 
--   M3*6MM Round Head Screw *2
+   M3*6MM Round Head Screw *2
 
--   M3*6MM Flat Head Screw *2
+   M3*6MM Flat Head Screw *2
 
--   M3 Nickel Plated Nut *2
+   M3 Nickel Plated Nut *2
 
--   Bottom PCB*1
+   Bottom PCB*1
 
--   Tracking Sensor *1
+   Tracking Sensor *1
 
--   Universal Caster *2
+   Universal Caster *2
 
 ![](media/88e38606d781b397a01dda7c9a8fbfc0.png)
 
@@ -100,27 +100,27 @@ Prepare the parts as follows:
 
 Prepare the parts as follows:
 
--   M3*6MM Round Head Screw *2
+   M3*6MM Round Head Screw *2
 
--   M2 Nut *4
+   M2 Nut *4
 
--   12FN20 Motor *2
+   12FN20 Motor *2
 
--   U-type Holder* 2
+   U-type Holder* 2
 
--   N20 Motor Wheel *2
+   N20 Motor Wheel *2
 
--   2P Wire *2
+   2P Wire *2
 
--   5P Wire *1
+   5P Wire *1
 
--   M2*12MM Round Head Screw *4
+   M2*12MM Round Head Screw *4
 
--   2-cell AA Battery Holder *1
+   2-cell AA Battery Holder *1
 
--   M3*6M Flat Head Screw *2
+   M3*6M Flat Head Screw *2
 
--   M3 Nut *2
+   M3 Nut *2
 
 ![](media/ec298ef9e65d4d8ddf3a13cf3071a474.png)![](media/58500fdcea9554df685f22feecff4a44.png)
 
@@ -130,15 +130,15 @@ Prepare the parts as follows:
 
 Prepare the parts as follows:
 
--   Top PCB *1
+   Top PCB *1
 
--   M3 Nut *1
+   M3 Nut *1
 
--   M3*6MM Round Head Screw *9
+   M3*6MM Round Head Screw *9
 
--   M3*10MM Hexagon Copper Bush *8
+   M3*10MM Hexagon Copper Bush *8
 
--   IR Receiver Sensor *1
+   IR Receiver Sensor *1
 
 ![](media/3181f125bb86f308b6f2225dd568d11e.png)
 
@@ -146,11 +146,11 @@ Prepare the parts as follows:
 
 Prepare the parts as follows:
 
--   V4.0 Board*1
+   V4.0 Board*1
 
--   Motor Drive Shield V2*1
+   Motor Drive Shield V2*1
 
--   M3*6MM Round Head Screw *4
+   M3*6MM Round Head Screw *4
 
 ![](media/aab04e120897037ba637f684ea2c8fcd.png)![](media/e0a59715a1c7a65a96fac1528d4a953c.png)
 
@@ -158,19 +158,19 @@ Prepare the parts as follows:
 
 Prepare the parts as follows:
 
--   Servo *1
+   Servo *1
 
--   M2*4 Screw *1
+   M2*4 Screw *1
 
--   Black Tie*2
+   Black Tie*2
 
--   Ultrasonic Sensor*1
+   Ultrasonic Sensor*1
 
--   Black Plastic Platform *1
+   Black Plastic Platform *1
 
--   M1.2*4 Tapping Screw *4
+   M1.2*4 Tapping Screw *4
 
--   M2*8 Tapping Screw *2
+   M2*8 Tapping Screw *2
 
 ![](media/b86186c2d44737305a389a887da27ac7.png)![](media/4988b1d4680b02c334af9a17084fb86d.png)![](media/22c91ff96312ceb35e347f2e2a14570b.png)![](media/bbbdf73ca24e03593b81e29350cab14c.png)![](media/e7d50aeef7f45e7ad027c12e0bf816cf.png)
 
@@ -178,13 +178,13 @@ Prepare the parts as follows:
 
 Prepare the parts as follows:
 
--   M3*6MM Round Head Screw *12
+   M3*6MM Round Head Screw *12
 
--   M3*40MM Hexagon Copper Bush *4
+   M3*40MM Hexagon Copper Bush *4
 
--   8x8 Dot Matrix *1
+   8x8 Dot Matrix *1
 
--   Jumper Wire *4
+   Jumper Wire *4
 
 ![](media/4a5a51938ed5966a7dfddbbbd24ccb06.png)![](media/d325c459fd69dfc1fd5da47195fac41d.png)![](media/a81dbd96dd8a30eb91f3d632f82da40e.png)![](media/5ea9f63d18f3094e627d2d8b00d40968.png)
 
@@ -218,7 +218,7 @@ to install the driver manually.
 
 Click JUST DOWNLOAD.
 
-1.  **Keyestudio V4.0 Development Board**
+  **Keyestudio V4.0 Development Board**
 
 You need to know that keyestudio V4.0 development board is the core of this
 smart turtle robot .
@@ -255,7 +255,7 @@ to a computer with a USB cable or power it via an external DC power jack (DC
 | Clock Speed                 | 16 MHz                                                   |
 | LED_BUILTIN                 | D13                                                      |
 
-1.  **Installing V4.0 board Driver**
+  **Installing V4.0 board Driver**
 
 Let’s install the driver of keyestudio V4.0 board. The USB-TTL chip on V4.0
 board adopts CP2102 serial chip. The driver program of this chip is included in
@@ -298,7 +298,7 @@ driver of CP2102 is installed successfully.
 
 ![](media/2f751d5f4e4c0c18fa862c589eaaf0da.jpeg)
 
-1.  **Install other visions of driver**
+  **Install other visions of driver**
 
 If your development board is Arduino board, install the driver as follows:
 
@@ -328,7 +328,7 @@ The device manager shows the serial port of Arduino.
 
 ![](media/09e91fee277b7a69b8ad57ffa3294d48.png)
 
-1.  **Arduino IDE Setting**
+  **Arduino IDE Setting**
 
 Click![](media/675ae7298ce0973df720b2fbbb514caa.png)icon，open Arduino IDE.
 
@@ -364,7 +364,7 @@ E- Used to save the sketch.
 
 F- Used to send the serial data received from board to the serial monitor.
 
-1.  **Start First Program**
+  **Start First Program**
 
 Open the file to select Example, choose BLINK from BASIC, as shown below:
 
@@ -445,7 +445,7 @@ pole and linked with V , VCC, + or 5V on the sensor shield or control board.
 
 ### **Project 1: LED Blink**
 
-1.  **Description**
+  **Description**
 
 For starters and enthusiasts, LED Blink is a fundamental program. LED, the
 abbreviation of light emitting diodes, consists of Ga, As, P, N chemical
@@ -453,30 +453,30 @@ compounds and so on. The LED can flash in diverse color by altering the delay
 time in the test code. When in control, power on GND and VCC, the LED will be on
 if S end is in high level; nevertheless, it will go off.
 
-1.  **Specification**
+  **Specification**
 
 ![](media/85b2076096371fd9ca03671602b1e5ce.png)![](media/801469132d9c36d316275ff74d7aed82.png)
 
--   Control interface: digital port
+   Control interface: digital port
 
--   Working voltage: DC 3.3-5V
+   Working voltage: DC 3.3-5V
 
--   Pin spacing: 2.54mm
+   Pin spacing: 2.54mm
 
--   LED display color: red
+   LED display color: red
 
 **(3) Components**
 
 ![](media/bd97a6a6efc6f9c6f3c9fc14996ec368.png)
 
-1.  **Wiring Diagram**
+  **Wiring Diagram**
 
 ![](media/bd05816bd2764b18d9315fc2e6405a0f.png)
 
 The expansion board is stacked on development board; LED module is connected to
 G of shield;“+”is linked with 5V and S end is attached to D9.
 
-1.  **Test Code**
+  **Test Code**
 
 /\*
 
@@ -514,11 +514,11 @@ delay(1000); // wait for a second
 
 //
 
-1.  **Test Result：**
+  **Test Result：**
 
 Upload the program, then LED flashes at the interval of 1s.
 
-1.  **Code Explanation**
+  **Code Explanation**
 
 **pinMode(9，OUTPUT)** - This function can denote that the pin is INPUT or
 OUTPUT
@@ -526,7 +526,7 @@ OUTPUT
 **digitalWrite(9，HIGH)** - When pin is OUTPUT, we can set it to HIGH(output 5V)
 or LOW(output 0V)
 
-1.  **Extension Practice**
+  **Extension Practice**
 
 We have succeeded in blinking LED. Next, let’s observe what will happen to the
 LED if we modify pins and delay time.
@@ -610,11 +610,11 @@ more 0,1 signals output per unit time, the more accurately control.
 
 ![](media/e88bbf035d7aa92350b88ad5e5ff594b.png)
 
-1.  **Hook-up Diagram**
+  **Hook-up Diagram**
 
 ![](media/bd05816bd2764b18d9315fc2e6405a0f.png)
 
-1.  **Test Code：**
+  **Test Code：**
 
 /\*
 
@@ -789,7 +789,7 @@ Upload the code to development board, then LED blinks more slowly.
 
 #### Project 3 : Line Tracking Sensor
 
-1.  **Description**
+  **Description**
 
 ![](media/d37c24e508361ab86b019135ab6950a9.png)The tracking sensor is
 actually an infrared sensor. The component used here is the TCRT5000 infrared
@@ -808,7 +808,7 @@ control.
 By rotating the adjustable potentiometer on the sensor, it can adjust the
 detection sensitivity of the sensor.
 
-1.  **Specification：**
+  **Specification：**
 
 Operating Voltage: 3.3-5V (DC)
 
@@ -832,7 +832,7 @@ OFF, the sensitivity is the best.
 
 ![](media/352a7a13f9a8c3ea706bb2a01932d4b4.png)
 
-1.  **Test Code**
+  **Test Code**
 
 /\*
 
@@ -896,7 +896,7 @@ delay(500);// delay in between reads for stability
 
 //
 
-1.  Test Result：
+  Test Result：
 
 Upload the code on development board, and open serial monitor. The displayed
 value is 1(high level) when no signal is received. The value shifts into 0 when
@@ -904,7 +904,7 @@ the sensor is covered with paper.
 
 ![](media/cbf84d96326071244835b2e691770a97.png)
 
-1.  Code Explanation
+  Code Explanation
 
 **Serial.begin(9600)**- Initialize serial port, set baud rate to 9600
 
@@ -912,7 +912,7 @@ the sensor is covered with paper.
 
 **digitalRead-**Read the state of pin, which are generally HIGH and LOW level
 
-1.  Extension Practice
+  Extension Practice
 
 After knowing its working principle, you can connect an LED to D9 so as to
 control LED by it.
@@ -1013,7 +1013,7 @@ covering the line tracking sensor by hand
 
 ![](media/ae51208a3f560ad6edefe370eb588c13.png)
 
-1.  **Description**
+  **Description**
 
 Servo motor is a position control rotary actuator. It mainly consists of a
 housing, a circuit board, a core-less motor, a gear and a position sensor. Its
@@ -1040,29 +1040,29 @@ The corresponding servo angles are shown below:
 
 ![](media/ddc74f62dc936c925d28d70a1a9c2214.png)
 
-1.  **Specification**
+  **Specification**
 
--   Working voltage: DC 4.8V \~ 6V
+   Working voltage: DC 4.8V \~ 6V
 
--   Operating angle range: about 180 ° (at 500 → 2500 μsec)
+   Operating angle range: about 180 ° (at 500 → 2500 μsec)
 
--   Pulse width range: 500 → 2500 μsec
+   Pulse width range: 500 → 2500 μsec
 
--   No-load speed: 0.12 ± 0.01 sec / 60 (DC 4.8V) 0.1 ± 0.01 sec / 60 (DC 6V)
+   No-load speed: 0.12 ± 0.01 sec / 60 (DC 4.8V) 0.1 ± 0.01 sec / 60 (DC 6V)
 
--   No-load current: 200 ± 20mA (DC 4.8V) 220 ± 20mA (DC 6V)
+   No-load current: 200 ± 20mA (DC 4.8V) 220 ± 20mA (DC 6V)
 
--   Stopping torque: 1.3 ± 0.01kg · cm (DC 4.8V) 1.5 ± 0.1kg · cm (DC 6V)
+   Stopping torque: 1.3 ± 0.01kg · cm (DC 4.8V) 1.5 ± 0.1kg · cm (DC 6V)
 
--   Stop current: ≦ 850mA (DC 4.8V) ≦ 1000mA (DC 6V)
+   Stop current: ≦ 850mA (DC 4.8V) ≦ 1000mA (DC 6V)
 
--   Standby current: 3 ± 1mA (DC 4.8V) 4 ± 1mA (DC 6V)
+   Standby current: 3 ± 1mA (DC 4.8V) 4 ± 1mA (DC 6V)
 
-1.  **Equipment**
+  **Equipment**
 
 ![](media/928ffd98988ed31aeb19d51560fc7797.png)
 
-1.  **Connection Diagram：**
+1  **Connection Diagram：**
 
 ![](media/7bc5ceb2e32422cd166e3ce9904510b4.png)
 
@@ -1073,7 +1073,7 @@ The servo has to be connected to external power due to its high demand for
 driving servo current. Generally, the current of development board is not big
 enough. If without connected power, the development board could be burnt.
 
-1.  **Test Code1：**
+  **Test Code1：**
 
 /\*
 
@@ -1153,7 +1153,7 @@ The library file of servo is used in the following code
 
 ![](media/7bc5ceb2e32422cd166e3ce9904510b4.png)
 
-1.  **Test Code2:**
+  **Test Code2:**
 
 /\*
 
@@ -1205,7 +1205,7 @@ delay(15); // waits 15ms for the servo to reach the position
 
 //\
 
-1.  **Test Result：**
+  **Test Result：**
 
 Upload code successfully and power on, then the servo swings in the range of 0°
 to 180°. We usually control it by library file.
@@ -1231,7 +1231,7 @@ for instance: myservo.attach(9)
 
 #### Project 5: Ultrasonic Sensor
 
-1.  **Description**
+  **Description**
 
 ![](media/8ccb4c72fcb7f1f756e4f14a1b2ef09a.png)The HC-SR04 ultrasonic sensor
 uses sonars to determine distance to an object like bats do. It offers excellent
@@ -1249,21 +1249,21 @@ to use ultrasonic sensor with Arduino.
 
 ![](media/9779999818cbbe4e1adf5b57081be431.png)
 
--   Power Supply :+5V DC
+   Power Supply :+5V DC
 
--   Quiescent Current : \<2mA
+   Quiescent Current : \<2mA
 
--   Working Current: 15mA
+   Working Current: 15mA
 
--   Effectual Angle: \<15°
+   Effectual Angle: \<15°
 
--   Ranging Distance : 2cm – 400 cm
+   Ranging Distance : 2cm – 400 cm
 
--   Resolution : 0.3 cm
+   Resolution : 0.3 cm
 
--   Measuring Angle: 30 degree
+   Measuring Angle: 30 degree
 
--   Trigger Input Pulse width: 10uS
+   Trigger Input Pulse width: 10uS
 
 **(3) Components**
 
@@ -1293,7 +1293,7 @@ After triggering, the module will automatically send eight 40KHz ultrasonic
   output a high level, and the duration of the high level is the time from
   the transmission of the ultrasonic wave to the return.
   ![](media/ba43be6007d9fe3aab0bb609868af640.png) |
-|-----------------------------------------------------------------------------|
+|-----------|
 
 Circuit diagram of ultrasonic sensor:
 
@@ -1505,7 +1505,7 @@ Serial.println();
 
 delay(250);
 
-if (cm\>=2 && cm\<=10)
+if (cm>=2 && cm\<=10)
 
 {
 
@@ -1569,7 +1569,7 @@ data transmission. The infrared receiving module made by the receiver has only
 three pins, signal line, VCC and GND. It is very convenient to communicate with
 Arduino and other microcontrollers.
 
-1.  **Specification**
+  **Specification**
 
 ![](media/3a87e791473f2a87ebd5780154a929ba.png)![](media/3434d75335432418ecff2bd64df180bd.png)
 
@@ -1602,56 +1602,56 @@ can be regarded as digital ports. A0 equals to D14, A1 is equivalent to digital
 
 Import the library of IR receiver firstly before editing test code.
 
-/\*
+    /\*
 
-keyestudio smart turtle robot
+    keyestudio smart turtle robot
 
-lesson 6.1
+    lesson 6.1
 
-IRremote
+    IRremote
 
-http://www.keyestudio.com
+    http://www.keyestudio.com
 
-\*/
+    \*/
 
-\##include \<IRremote.h\> //IRremote library statement
+    # include <IRremote.h> //IRremote library statement
 
-int RECV_PIN = A1; //define the pins of IR receiver as A1
+    int RECV_PIN = A1; //define the pins of IR receiver as A1
 
-IRrecv irrecv(RECV_PIN);
+    IRrecv irrecv(RECV_PIN);
 
-decode_results results; // decode results exist in the“result” of “decode
-results”
+    decode_results results; // decode results exist in the“result” of “decode
+    results”
 
-void setup()
+    void setup()
 
-{
+    {
 
-Serial.begin(9600);
+    Serial.begin(9600);
 
-irrecv.enableIRIn(); // Enable receiver
+    irrecv.enableIRIn(); // Enable receiver
 
-}
+    }
 
-void loop() {
+    void loop() {
 
-if (irrecv.decode(&results))//decode successfully, receive a set of infrared
-signals
+    if (irrecv.decode(&results))//decode successfully, receive a set of infrared
+    signals
 
-{
+    {
 
-Serial.println(results.value, HEX);//Wrap word in 16 HEX to output and receive
-code
+    Serial.println(results.value, HEX);//Wrap word in 16 HEX to output and receive
+    code
 
-irrecv.resume(); // Receive the next value
+    irrecv.resume(); // Receive the next value
 
-}
+    }
 
-delay(100);
+    delay(100);
 
-}
+    }
 
-//
+    //
 
 1.  Test Result：
 
@@ -1685,78 +1685,78 @@ and off.
 
 ![](media/fe100b9ca4774cea8800901786866ffa.png)
 
-/\*
+    /\*
 
-keyestudio smart turtle robot
+    keyestudio smart turtle robot
 
-lesson 6.2
+    lesson 6.2
 
-IRremote
+    IRremote
 
-http://www.keyestudio.com
+    http://www.keyestudio.com
 
-\*/
+    \*/
 
-\##include \<IRremote.h\>
+    \##include \<IRremote.h\>
 
-int RECV_PIN = A1;//define the pin of IR receiver as A1
+    int RECV_PIN = A1;//define the pin of IR receiver as A1
 
-int LED_PIN=9;//define the pin of LED as pin 9
+    int LED_PIN=9;//define the pin of LED as pin 9
 
-int a=0;
+    int a=0;
 
-IRrecv irrecv(RECV_PIN);
+    IRrecv irrecv(RECV_PIN);
 
-decode_results results;
+    decode_results results;
 
-void setup()
+    void setup()
 
-{Serial.begin(9600);
+    {Serial.begin(9600);
 
-irrecv.enableIRIn(); //Initialize the IR receiver
+    irrecv.enableIRIn(); //Initialize the IR receiver
 
-pinMode(LED_PIN,OUTPUT);//set pin 4 of LED to OUTPUT
+    pinMode(LED_PIN,OUTPUT);//set pin 4 of LED to OUTPUT
 
-}
+    }
 
-void loop() {
+    void loop() {
 
-if (irrecv.decode(&results))
+    if (irrecv.decode(&results))
 
-{
+    {
 
-if(results.value==0xFF02FD && (a==0)) //according to the above key value,
-press“OK”on remote control , LED will be controlled
+    if(results.value==0xFF02FD && (a==0)) //according to the above key value,
+    press“OK”on remote control , LED will be controlled
 
-{
+    {
 
-Serial.println("HIGH");
+    Serial.println("HIGH");
 
-digitalWrite(LED_PIN,HIGH);//LED will be on
+    digitalWrite(LED_PIN,HIGH);//LED will be on
 
-a=1;
+    a=1;
 
-}
+    }
 
-else if(results.value==0xFF02FD && (a==1)) //press again
+    else if(results.value==0xFF02FD && (a==1)) //press again
 
-{
+    {
 
-Serial.println("LOW");
+    Serial.println("LOW");
 
-digitalWrite(LED_PIN,LOW);//LED will go off
+    digitalWrite(LED_PIN,LOW);//LED will go off
 
-a=0;
+    a=0;
 
-}
+    }
 
-irrecv.resume(); // receive the next value
+    irrecv.resume(); // receive the next value
 
-}
+    }
 
-}
+    }
 
-//
+    //
 
 Upload code to development board, press“OK”key on remote control to make LED on
 and off.
@@ -4142,636 +4142,636 @@ Here is a simple flow chart of this multi-purpose robot car for your reference.
 
 1.  **Test Code**
 
-/\*
+    /\*
 
-keyestudio smart turtle robot
+    keyestudio smart turtle robot
 
-lesson 15
+    lesson 15
 
-Multifunctional turtle robot
+    Multifunctional turtle robot
 
-http://www.keyestudio.com
+    http://www.keyestudio.com
 
-\*/
+    \*/
 
-\##include \<ks_Matrix.h\>
+    \##include \<ks_Matrix.h\>
 
-Matrix myMatrix(A4,A5);
+    Matrix myMatrix(A4,A5);
 
-//Array, used to store the data of pattern, can be calculated by yourself or
-obtained from the modulus tool
+    //Array, used to store the data of pattern, can be calculated by yourself or
+    obtained from the modulus tool
 
-uint8_t matrix_heart[8]={0x66,0x99,0x81,0x81,0x42,0x24,0x18,0x00};
+    uint8_t matrix_heart[8]={0x66,0x99,0x81,0x81,0x42,0x24,0x18,0x00};
 
-uint8_t matrix_smile[8]={0x42,0xa5,0xa5,0x00,0x00,0x24,0x18,0x00};
+    uint8_t matrix_smile[8]={0x42,0xa5,0xa5,0x00,0x00,0x24,0x18,0x00};
 
-uint8_t matrix_front2[8]={0x18,0x24,0x42,0x99,0x24,0x42,0x81,0x00};
+    uint8_t matrix_front2[8]={0x18,0x24,0x42,0x99,0x24,0x42,0x81,0x00};
 
-uint8_t matrix_back2[8]={0x00,0x81,0x42,0x24,0x99,0x42,0x24,0x18};
+    uint8_t matrix_back2[8]={0x00,0x81,0x42,0x24,0x99,0x42,0x24,0x18};
 
-uint8_t matrix_left2[8]={0x48,0x24,0x12,0x09,0x09,0x12,0x24,0x48};
+    uint8_t matrix_left2[8]={0x48,0x24,0x12,0x09,0x09,0x12,0x24,0x48};
 
-uint8_t matrix_right2[8]={0x12,0x24,0x48,0x90,0x90,0x48,0x24,0x12};
+    uint8_t matrix_right2[8]={0x12,0x24,0x48,0x90,0x90,0x48,0x24,0x12};
 
-uint8_t matrix_stop2[8]={0x18,0x18,0x18,0x18,0x18,0x00,0x18,0x18};
+    uint8_t matrix_stop2[8]={0x18,0x18,0x18,0x18,0x18,0x00,0x18,0x18};
 
-uint8_t LEDArray[8];
+    uint8_t LEDArray[8];
 
-\##include "SR04.h"
+    \##include "SR04.h"
 
-\##define TRIG_PIN 12
+    \##define TRIG_PIN 12
 
-\##define ECHO_PIN 13
+    \##define ECHO_PIN 13
 
-SR04 sr04 = SR04(ECHO_PIN,TRIG_PIN);
+    SR04 sr04 = SR04(ECHO_PIN,TRIG_PIN);
 
-long distance,distance1,distance2,distance3;
+    long distance,distance1,distance2,distance3;
 
-const int left_ctrl = 2;
+    const int left_ctrl = 2;
 
-const int left_pwm = 6;
+    const int left_pwm = 6;
 
-const int right_ctrl = 4;
+    const int right_ctrl = 4;
 
-const int right_pwm = 5;
+    const int right_pwm = 5;
 
-const int sensor_l = 11;
+    const int sensor_l = 11;
 
-const int sensor_c = 7;
+    const int sensor_c = 7;
 
-const int sensor_r = 8;
+    const int sensor_r = 8;
 
-int l_val,c_val,r_val;
+    int l_val,c_val,r_val;
 
-const int servopin = 10;
+    const int servopin = 10;
 
-int myangle;
+    int myangle;
 
-int pulsewidth;
+    int pulsewidth;
 
-int val;
+    int val;
 
-char BLE_val;
+    char BLE_val;
 
-void setup() {
+    void setup() {
 
-Serial.begin(9600);
+    Serial.begin(9600);
 
-//irrecv.enableIRIn(); // Start the receiver
+    //irrecv.enableIRIn(); // Start the receiver
 
-servopulse(servopin,90);
+    servopulse(servopin,90);
 
-pinMode(left_ctrl,OUTPUT);
+    pinMode(left_ctrl,OUTPUT);
 
-pinMode(left_pwm,OUTPUT);
+    pinMode(left_pwm,OUTPUT);
 
-pinMode(right_ctrl,OUTPUT);
+    pinMode(right_ctrl,OUTPUT);
 
-pinMode(right_pwm,OUTPUT);
+    pinMode(right_pwm,OUTPUT);
 
-pinMode(sensor_l,INPUT);
+    pinMode(sensor_l,INPUT);
 
-pinMode(sensor_c,INPUT);
+    pinMode(sensor_c,INPUT);
 
-pinMode(sensor_r,INPUT);
+    pinMode(sensor_r,INPUT);
 
-myMatrix.begin(112);
+    myMatrix.begin(112);
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-}
+    }
 
-void loop() {
+    void loop() {
 
-if(Serial.available()\>0)
+    if(Serial.available()\>0)
 
-{
+    {
 
-BLE_val = Serial.read();
+    BLE_val = Serial.read();
 
-Serial.println(BLE_val);
+    Serial.println(BLE_val);
 
-}
+    }
 
-switch(BLE_val)
+    switch(BLE_val)
 
-{
+    {
 
-case 'F': car_front();
+    case 'F': car_front();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_front2);
+    matrix_display(matrix_front2);
 
-break;
+    break;
 
-case 'B': car_back();
+    case 'B': car_back();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_back2);
+    matrix_display(matrix_back2);
 
-break;
+    break;
 
-case 'L': car_left();
+    case 'L': car_left();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_left2);
+    matrix_display(matrix_left2);
 
-break;
+    break;
 
-case 'R': car_right();
+    case 'R': car_right();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_right2);
+    matrix_display(matrix_right2);
 
-break;
+    break;
 
-case 'S': car_Stop();
+    case 'S': car_Stop();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_stop2);
+    matrix_display(matrix_stop2);
 
-break;
+    break;
 
-case 'X': tracking();
+    case 'X': tracking();
 
-break;
+    break;
 
-case 'Y': follow_car();
+    case 'Y': follow_car();
 
-break;
+    break;
 
-case 'U': avoid();
+    case 'U': avoid();
 
-break;
+    break;
 
-}
+    }
 
-}
+    }
 
-void avoid()
+    void avoid()
 
-{
+    {
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_smile);
+    matrix_display(matrix_smile);
 
-int track_flag = 0;
+    int track_flag = 0;
 
-while(track_flag == 0)
+    while(track_flag == 0)
 
-{
+    {
 
-distance1=sr04.Distance();
+    distance1=sr04.Distance();
 
-if((distance1 \< 10)&&(distance1 != 0))
+    if((distance1 \< 10)&&(distance1 != 0))
 
-{
+    {
 
-car_Stop();
+    car_Stop();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_stop2);
+    matrix_display(matrix_stop2);
 
-delay(100);
+    delay(100);
 
-servopulse(servopin,180);
+    servopulse(servopin,180);
 
-delay(100);
+    delay(100);
 
-distance2=sr04.Distance();
+    distance2=sr04.Distance();
 
-delay(100);
+    delay(100);
 
-servopulse(servopin,0);
+    servopulse(servopin,0);
 
-delay(100);
+    delay(100);
 
-distance3=sr04.Distance();
+    distance3=sr04.Distance();
 
-delay(100);
+    delay(100);
 
-if(distance2 \> distance3)
+    if(distance2 \> distance3)
 
-{
+    {
 
-car_left();
+    car_left();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_left2);
+    matrix_display(matrix_left2);
 
-servopulse(servopin,90);
+    servopulse(servopin,90);
 
-//delay(100);
+    //delay(100);
 
-}
+    }
 
-else
+    else
 
-{
+    {
 
-car_right();
+    car_right();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_right2);
+    matrix_display(matrix_right2);
 
-servopulse(servopin,90);
+    servopulse(servopin,90);
 
-//delay(100);
+    //delay(100);
 
-}
+    }
 
-}
+    }
 
-else
+    else
 
-{
+    {
 
-car_front();
+    car_front();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_front2);
+    matrix_display(matrix_front2);
 
-}
+    }
 
-if(Serial.available()\>0)
+    if(Serial.available()\>0)
 
-{
+    {
 
-BLE_val = Serial.read();
+    BLE_val = Serial.read();
 
-if(BLE_val == 'S')
+    if(BLE_val == 'S')
 
-{
+    {
 
-track_flag = 1;
+    track_flag = 1;
 
-}
+    }
 
-}
+    }
 
-}
+    }
 
-}
+    }
 
-void follow_car()
+    void follow_car()
 
-{
+    {
 
-servopulse(servopin,90);
+    servopulse(servopin,90);
 
-int track_flag = 0;
+    int track_flag = 0;
 
-while(track_flag == 0)
+    while(track_flag == 0)
 
-{
+    {
 
-distance = sr04.Distance();
+    distance = sr04.Distance();
 
-if(distance\<8)
+    if(distance\<8)
 
-{
+    {
 
-car_back();
+    car_back();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_back2);
+    matrix_display(matrix_back2);
 
-}
+    }
 
-else if((distance\>=8)&&(distance\<13))
+    else if((distance\>=8)&&(distance\<13))
 
-{
+    {
 
-car_Stop();
+    car_Stop();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_stop2);
+    matrix_display(matrix_stop2);
 
-}
+    }
 
-else if((distance\>=13)&&(distance\<35))
+    else if((distance\>=13)&&(distance\<35))
 
-{
+    {
 
-car_front();
+    car_front();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_front2);
+    matrix_display(matrix_front2);
 
-}
+    }
 
-else
+    else
 
-{
+    {
 
-car_Stop();
+    car_Stop();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_stop2);
+    matrix_display(matrix_stop2);
 
-}
+    }
 
-if(Serial.available()\>0)
+    if(Serial.available()\>0)
 
-{
+    {
 
-BLE_val = Serial.read();
+    BLE_val = Serial.read();
 
-if(BLE_val == 'S')
+    if(BLE_val == 'S')
 
-{
+    {
 
-track_flag = 1;
+    track_flag = 1;
 
-}
+    }
 
-}
+    }
 
-}
+    }
 
-}
+    }
 
-void servopulse(int servopin,int myangle)
+    void servopulse(int servopin,int myangle)
 
-{
+    {
 
-for(int i=0;i\<20;i++)
+    for(int i=0;i\<20;i++)
 
-{
+    {
 
-pulsewidth = (myangle\*11)+500;
+    pulsewidth = (myangle\*11)+500;
 
-digitalWrite(servopin,HIGH);
+    digitalWrite(servopin,HIGH);
 
-delayMicroseconds(pulsewidth);
+    delayMicroseconds(pulsewidth);
 
-digitalWrite(servopin,LOW);
+    digitalWrite(servopin,LOW);
 
-delay(20-pulsewidth/1000);
+    delay(20-pulsewidth/1000);
 
-}
+    }
 
-}
+    }
 
-void tracking()
+    void tracking()
 
-{
+    {
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_smile);
+    matrix_display(matrix_smile);
 
-int track_flag = 0;
+    int track_flag = 0;
 
-while(track_flag == 0)
+    while(track_flag == 0)
 
-{
+    {
 
-l_val = digitalRead(sensor_l);
+    l_val = digitalRead(sensor_l);
 
-c_val = digitalRead(sensor_c);
+    c_val = digitalRead(sensor_c);
 
-r_val = digitalRead(sensor_r);
+    r_val = digitalRead(sensor_r);
 
-if(c_val == 1)
+    if(c_val == 1)
 
-{
+    {
 
-car_front2();
+    car_front2();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_front2);
+    matrix_display(matrix_front2);
 
-}
+    }
 
-else
+    else
 
-{
+    {
 
-if((l_val == 1)&&(r_val == 0))
+    if((l_val == 1)&&(r_val == 0))
 
-{
+    {
 
-car_left();
+    car_left();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_left2);
+    matrix_display(matrix_left2);
 
-}
+    }
 
-else if((l_val == 0)&&(r_val == 1))
+    else if((l_val == 0)&&(r_val == 1))
 
-{
+    {
 
-car_right();
+    car_right();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_right2);
+    matrix_display(matrix_right2);
 
-}
+    }
 
-else
+    else
 
-{
+    {
 
-car_Stop();
+    car_Stop();
 
-myMatrix.clear();
+    myMatrix.clear();
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-matrix_display(matrix_stop2);
+    matrix_display(matrix_stop2);
 
-}
+    }
 
-}
+    }
 
-if(Serial.available()\>0)
+    if(Serial.available()\>0)
 
-{
+    {
 
-BLE_val = Serial.read();
+    BLE_val = Serial.read();
 
-if(BLE_val == 'S')
+    if(BLE_val == 'S')
 
-{
+    {
 
-track_flag = 1;
+    track_flag = 1;
 
-}
+    }
 
-}
+    }
 
-}
+    }
 
-}
+    }
 
-void car_front()
+    void car_front()
 
-{
+    {
 
-digitalWrite(left_ctrl,LOW);
+    digitalWrite(left_ctrl,LOW);
 
-analogWrite(left_pwm,200);
+    analogWrite(left_pwm,200);
 
-digitalWrite(right_ctrl,LOW);
+    digitalWrite(right_ctrl,LOW);
 
-analogWrite(right_pwm,200);
+    analogWrite(right_pwm,200);
 
-}
+    }
 
-void car_front2()
+    void car_front2()
 
-{
+    {
 
-digitalWrite(left_ctrl,LOW);
+    digitalWrite(left_ctrl,LOW);
 
-analogWrite(left_pwm,100);
+    analogWrite(left_pwm,100);
 
-digitalWrite(right_ctrl,LOW);
+    digitalWrite(right_ctrl,LOW);
 
-analogWrite(right_pwm,100);
+    analogWrite(right_pwm,100);
 
-}
+    }
 
-void car_back()
+    void car_back()
 
-{
+    {
 
-digitalWrite(left_ctrl,HIGH);
+    digitalWrite(left_ctrl,HIGH);
 
-analogWrite(left_pwm,200);
+    analogWrite(left_pwm,200);
 
-digitalWrite(right_ctrl,HIGH);
+    digitalWrite(right_ctrl,HIGH);
 
-analogWrite(right_pwm,200);
+    analogWrite(right_pwm,200);
 
-}
+    }
 
-void car_left()
+    void car_left()
 
-{
+    {
 
-digitalWrite(left_ctrl,HIGH);
+    digitalWrite(left_ctrl,HIGH);
 
-analogWrite(left_pwm,200);
+    analogWrite(left_pwm,200);
 
-digitalWrite(right_ctrl,LOW);
+    digitalWrite(right_ctrl,LOW);
 
-analogWrite(right_pwm,200);
+    analogWrite(right_pwm,200);
 
-}
+    }
 
-void car_right()
+    void car_right()
 
-{
+    {
 
-digitalWrite(left_ctrl,LOW);
+    digitalWrite(left_ctrl,LOW);
 
-analogWrite(left_pwm,200);
+    analogWrite(left_pwm,200);
 
-digitalWrite(right_ctrl,HIGH);
+    digitalWrite(right_ctrl,HIGH);
 
-analogWrite(right_pwm,200);
+    analogWrite(right_pwm,200);
 
-}
+    }
 
-void car_Stop()
+    void car_Stop()
 
-{
+    {
 
-analogWrite(left_pwm,0);
+    analogWrite(left_pwm,0);
 
-analogWrite(right_pwm,0);
+    analogWrite(right_pwm,0);
 
-}
+    }
 
-//the function that dot matrix shows patterns
+    //the function that dot matrix shows patterns
 
-void matrix_display(unsigned char matrix_value[])
+    void matrix_display(unsigned char matrix_value[])
 
-{
+    {
 
-for(int i=0; i\<8; i++)
+    for(int i=0; i\<8; i++)
 
-{
+    {
 
-LEDArray[i]=matrix_value[i];
+    LEDArray[i]=matrix_value[i];
 
-for(int j=7; j\>=0; j--)
+    for(int j=7; j\>=0; j--)
 
-{
+    {
 
-if((LEDArray[i]&0x01)\>0)
+    if((LEDArray[i]&0x01)\>0)
 
-myMatrix.drawPixel(j, i,1);
+    myMatrix.drawPixel(j, i,1);
 
-LEDArray[i] = LEDArray[i]\>\>1;
+    LEDArray[i] = LEDArray[i]\>\>1;
 
-}
+    }
 
-}
+    }
 
-myMatrix.writeDisplay();
+    myMatrix.writeDisplay();
 
-}
+    }
 
-//
+    //
 
 **（5）Test Result**
 
