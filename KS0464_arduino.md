@@ -3845,8 +3845,8 @@ displayed as shown below:
 
 ![](media/ce9d3b7ef40230c2e98e30ad3c72959c.png)
 
-| ![Screenshot_2019-06-17-08-21-55-51](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Pair HM-10 Bluetooth module     |                                                                 |
-|----------------------------------------------------------------------------------|---------------------------------|-----------------------------------------------------------------|
+| ![Screenshot_2019-06-17-08-21-55-51](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Pair HM-10 Bluetooth module     |
+|----------------------------------------------------------------------------------|---------------------------------|
 | ![](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Enter control page of Bluetooth |                                                                 |
 | ![](media/48aa4aeaa4494f2ec757416cfdd4fc9b.png) | Disconnect Bluetooth            |                                                                 |
 | ![](media/0120eb9e4233723148bfda458bb9746a.png) | Press: F Release: S             | Press the button, robot goes front; release to stop             |
