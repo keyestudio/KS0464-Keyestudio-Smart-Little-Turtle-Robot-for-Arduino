@@ -422,7 +422,7 @@ Click![](media/9c9158a5d49baa740ea2f0048f655017.png)to upload the program, uploa
 
 Upload the program successfully, the onboard LED lights on for 1s, lights off for 1s. Congratulation, you have finished the first program.
 
-## **7. Add project Libraries**
+## 7. Add project Libraries
 
 **(1) What are Libraries ?**
 
