@@ -462,7 +462,7 @@ The whole project begins with basic programs. Starting from simple to complex, t
 
 Note: (G), marked on each sensor and module, is the negative pole and connected to “G”, ”-”or “GND”on the sensor shield or control board ; (V) is the positive pole and linked with V , VCC, + or 5V on the sensor shield or control board.
 
-**Project 1: LED Blink**
+### Project 1: LED Blink
 
 **（1）Description**
 
@@ -555,7 +555,7 @@ void loop()
 The test result shows that the LED flashes faster. Therefore, pins and time
 delaying affect flash frequency.
 
-**Project 2: Adjust LED Brightness**
+### Project 2: Adjust LED Brightness
 
 ![](media/7541db758dbca2c2a100b2b0227f9af4.jpeg)
 
@@ -697,7 +697,7 @@ void loop () {
 
 Upload the code to development board, then LED blinks more slowly.
 
-Project 3 : Line Tracking Sensor
+### Project 3 : Line Tracking Sensor
 
 **Description**
 
@@ -843,7 +843,7 @@ void loop()
 
 Upload the code to development board, then we could find LED light up when covering the line tracking sensor by hand
 
-**Project 4: Servo Control**
+### Project 4: Servo Control
 
 ![](media/ae51208a3f560ad6edefe370eb588c13.png)
 
@@ -991,7 +991,7 @@ The following are some common statements of the servo function:
 
 Note: The above written format is“servo variable name, specific statement（）”, for instance: myservo.attach(9)
 
-Project 5: Ultrasonic Sensor
+### Project 5: Ultrasonic Sensor
 
 **Description**
 
@@ -1183,7 +1183,7 @@ void loop()
 
 Upload test code to development board and block ultrasonic sensor by hand, then check if LED is on.
 
-**Project 6: IR Reception**
+### Project 6: IR Reception
 
 Description
 
@@ -1326,7 +1326,7 @@ void loop() {
 
 Upload code to development board, press“OK”key on remote control to make LED on and off.
 
-**Project 7: Bluetooth Remote Control**
+### Project 7: Bluetooth Remote Control
 
 **Description**
 
@@ -1528,7 +1528,7 @@ void loop()
 
 Click“Write”on APP. When you enter 1, LED will be on; when you input 0, it will be off. (Remember to remove the Bluetooth module after finishing experiment.  Otherwise, burning code will be affected)
 
-Project 8: Motor Driving and Speed Control
+### Project 8: Motor Driving and Speed Control
 
 (1) Description
 
@@ -1710,7 +1710,7 @@ void loop()
 
 After uploading the code successfully, do you find the motors rotate faster?
 
-Project 9: 8\*8 LED Board
+### Project 9: 8*8 LED matrix
 
 **Description**
 
@@ -1912,7 +1912,7 @@ Uploading code, plugging in and turning on the robot car, 8\*8 dot matrix shows 
 
 ![](media/956fb067b4041cb62be5deec34110846.png)
 
-Project 10: Line Tracking Robot
+### Project 10: Line Tracking Robot
 
 ![](media/ad40150b9cd84f7848753cca5322a4c3.jpeg)
 
@@ -2039,7 +2039,7 @@ void Stop()//define the state of stop
 Uploading the code to the development board, plugging in and pressing the
 on-button of the robot car. Turtle car walks along black lines.
 
-Project 11: Ultrasonic Follow Robot
+### Project 11: Ultrasonic Follow Robot
 
 ![](media/9dadf95320bb37fd2c4f35f5b03551d6.jpeg)
 
@@ -2149,7 +2149,7 @@ Uploading the code to the development board, and plugging in, and adjusting the 
 
 (This robot car can only moves forward and backward).
 
-Project 12: Ultrasonic Avoiding Robot
+### Project 12: Ultrasonic Avoiding Robot
 
 ![](media/df4f5338366adbe9b9f6a90e0c092013.jpeg)
 
@@ -2343,7 +2343,7 @@ void matrix_display(unsigned char matrix_value[])
 
 Uploading the code on the keyestudio V4.0 board, wiring according to the connection diagram and turning on the robot car, the smart car can automatically avoid obstacles.
 
-Project 13: IR Remote Control Robot
+### Project 13: IR Remote Control Robot
 
 ![](media/40c436f91b103dafa14c82c8459579a9.jpeg)
 
@@ -2515,7 +2515,7 @@ void matrix_display(unsigned char matrix_value[])
 
 Upload code and press buttons on IR remote control to make turtle robot car to move.
 
-Project 14: Bluetooth Remote Control
+### Project 14: Bluetooth Remote Control
 
 **![](media/40c436f91b103dafa14c82c8459579a9.jpeg)**
 
@@ -2756,7 +2756,7 @@ Special Note: you need to remove the Bluetooth module before uploading the test 
 
 And the Bluetooth module can be reconnected after uploading code successfully.
 
-Project 15: Multi-purpose Bluetooth Robot
+### Project 15: Multi-purpose Bluetooth Robot
 
 ![image-20230524102856893](media/image-20230524102856893.png)
 
