@@ -2,6 +2,10 @@
 
 ![](media/78ea489a5ebfbfadfdf6d6e18dc5330b.png)
 
+## Read me frist
+
+ **Download the APP, Code and library from the link: <https://fs.keyestudio.com/KS0464>**
+
 ## 1. Introduction
 
 Nowadays, technological education such as VR, kids programming, and artificial intelligence, has become a mainstream in educational industry. Thereby, people attach more importance to STEAM education. Arduino is notably famous for Maker
