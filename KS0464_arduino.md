@@ -79,7 +79,7 @@ Moreover, it is the best choice if you intend to obtain a DIY robot for learning
 |  15   |         Battery Holder with JST-PH2.0MM-2P Lead          |  1   |                   ![img](media/wps15.png)                    |
 |  16   |                 4 Slot AA Battery Holder                 |  1   |                   ![img](media/wps16.jpg)                    |
 |  17   |                M2*12MM Round Head Screws                 |  4   |                   ![img](media/wps17.png)                    |
-|  18   |                  M2 Nickel Plated Nuts                   |  4   | ![img](media/wps21.png)![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml8076\wps21.png)![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml8076\wps21.png)![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml8076\wps21.png) |
+|  18   |                  M2 Nickel Plated Nuts                   |  4   |                   ![img](media/wps21.png) |
 |  19   |                 M3*6MM Round Head Screws                 |  27  | ![img](media/wps23.png)![img](media/wps23.png)![img](media/wps23.png)![img](media/wps23.png)![img](media/wps23.png)![img](media/wps23.png)![img](media/wps23.png)![img](media/wps23.png)![img](media/wps23.png) |
 |  20   |                 M3*6MM Flat Head Screws                  |  2   |                   ![img](media/wps31.png)                    |
 |  21   |                  M3 Nickel Plated Nuts                   |  5   | ![img](media/wps34.png)![img](media/wps34.png)![img](media/wps34.png)![img](media/wps34.png)![img](media/wps34.png) |
@@ -93,7 +93,7 @@ Moreover, it is the best choice if you intend to obtain a DIY robot for learning
 |  29   |             3*40MM Black-yellow  Screwdriver             |  1   |                   ![img](media/wps46.png)                    |
 |  30   |              1m Transparent Blue USB Cable               |  1   |                   ![img](media/wps47.png)                    |
 |  31   |                    3*100MM Black Ties                    |  5   |                   ![img](media/wps52.png)                    |
-|  32   |                  Turtle Robot Baseboard                  |  1   | ![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml8076\wps53.jpg) |
+|  32   |                  Turtle Robot Baseboard                  |  1   |                   ![img](media/bab62fea58504b0951fecd25bf1bdfd4.png)                   |
 |  33   |                  Turtle Robot Top Board                  |  1   |                   ![img](media/wps54.png)                    |
 |  34   |                F-F 20CM/40P Dupont Cable                 | 0.1  |                   ![img](media/wps55.jpg)                    |
 |  35   |                20cm 3pin F-F Dupont Cable                |  1   |                   ![img](media/wps56.jpg)                    |
