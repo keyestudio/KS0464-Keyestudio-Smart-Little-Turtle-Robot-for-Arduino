@@ -2,11 +2,11 @@
 
 ![](media/78ea489a5ebfbfadfdf6d6e18dc5330b.png)
 
-## Read me frist
+# Read me frist
 
  **Download the APP, Code and library from the link: <https://fs.keyestudio.com/KS0464>**
 
-## 1. Introduction
+# 1. Introduction
 
 Nowadays, technological education such as VR, kids programming, and artificial intelligence, has become a mainstream in educational industry. Thereby, people attach more importance to STEAM education. Arduino is notably famous for Maker
 education.
@@ -17,7 +17,7 @@ This product boasts 15 learning projects, from simple to complex, which will gui
 
 Moreover, it is the best choice if you intend to obtain a DIY robot for learning programming, entertainment and competition.
 
-## 2. Features
+# 2. Features
 
 1. Multi-purpose function: Multi-purpose function: Obstacle avoidance, following, IR remote control, Bluetooth control, ultrasonic following and facial emoticons display.
 
@@ -31,7 +31,7 @@ Moreover, it is the best choice if you intend to obtain a DIY robot for learning
 
 6. Basic programming: C language code of Arduino IDE.
 
-## 3. Specification
+# 3. Specification
 
 - Working voltage: 5v
 
@@ -56,7 +56,7 @@ Moreover, it is the best choice if you intend to obtain a DIY robot for learning
 - Bluetooth control: support Android and iOS system
 
 
-## 4. Kit List
+# 4. Kit List
 
 ![image-20230413091826367](media/image-20230413091826367.png)
 
@@ -101,7 +101,7 @@ Moreover, it is the best choice if you intend to obtain a DIY robot for learning
 |  37   |                     Decorative Board                     |  1   |            ![img](media/wps58-16848908537451.jpg)            |
 
 
-## 5. Assembly Guide
+# 5. Assembly Guide
 
 **Note: Peel the plastic film off the board first when installing the smart car.**
 
@@ -265,7 +265,7 @@ Prepare the parts as follows:
 
 ![](media/18207632bb4be8e2678af744566b5e06.png)
 
-## 6. Getting Started with Arduino
+# 6. Getting Started with Arduino
 
 When you get control board, you need to download Arduino IDE and driver firstly.
 
@@ -426,7 +426,7 @@ Click![](media/9c9158a5d49baa740ea2f0048f655017.png)to upload the program, uploa
 
 Upload the program successfully, the onboard LED lights on for 1s, lights off for 1s. Congratulation, you have finished the first program.
 
-## 7. Add project Libraries
+# 7. Add project Libraries
 
 **(1) What are Libraries ?**
 
@@ -460,13 +460,13 @@ Then the libraries of turtle robot are installed successfully, as shown below:
 
 ![](media/fbbf98644e2391da69aaece3d59490fa.png)
 
-## 8. Projects
+# 8. Projects
 
 The whole project begins with basic programs. Starting from simple to complex, the lessons will guide you to assemble the robot car and absorb the knowledge of electronic and machinery step by step. I reckon that you could hardly sit still and itch to have a go now. Let’s get started.
 
 Note: (G), marked on each sensor and module, is the negative pole and connected to “G”, ”-”or “GND”on the sensor shield or control board ; (V) is the positive pole and linked with V , VCC, + or 5V on the sensor shield or control board.
 
-### Project 1: LED Blink
+## Project 1: LED Blink
 
 **（1）Description**
 
@@ -559,7 +559,7 @@ void loop()
 The test result shows that the LED flashes faster. Therefore, pins and time
 delaying affect flash frequency.
 
-### Project 2: Adjust LED Brightness
+## Project 2: Adjust LED Brightness
 
 ![](media/7541db758dbca2c2a100b2b0227f9af4.jpeg)
 
@@ -701,7 +701,7 @@ void loop () {
 
 Upload the code to development board, then LED blinks more slowly.
 
-### Project 3 : Line Tracking Sensor
+## Project 3 : Line Tracking Sensor
 
 **Description**
 
@@ -847,7 +847,7 @@ void loop()
 
 Upload the code to development board, then we could find LED light up when covering the line tracking sensor by hand
 
-### Project 4: Servo Control
+## Project 4: Servo Control
 
 ![](media/ae51208a3f560ad6edefe370eb588c13.png)
 
@@ -981,7 +981,7 @@ Upload code successfully and power on, then the servo swings in the range of 0°
 
 **Code Explanation**
 
-Arduino comes with **\##include \<Servo.h\>** (servo function and statement）
+Arduino comes with **\#include \<Servo.h\>** (servo function and statement）
 
 The following are some common statements of the servo function:
 
@@ -995,7 +995,7 @@ The following are some common statements of the servo function:
 
 Note: The above written format is“servo variable name, specific statement（）”, for instance: myservo.attach(9)
 
-### Project 5: Ultrasonic Sensor
+## Project 5: Ultrasonic Sensor
 
 **Description**
 
@@ -1187,7 +1187,7 @@ void loop()
 
 Upload test code to development board and block ultrasonic sensor by hand, then check if LED is on.
 
-### Project 6: IR Reception
+## Project 6: IR Reception
 
 Description
 
@@ -1330,7 +1330,7 @@ void loop() {
 
 Upload code to development board, press“OK”key on remote control to make LED on and off.
 
-### Project 7: Bluetooth Remote Control
+## Project 7: Bluetooth Remote Control
 
 **Description**
 
@@ -1532,7 +1532,7 @@ void loop()
 
 Click“Write”on APP. When you enter 1, LED will be on; when you input 0, it will be off. (Remember to remove the Bluetooth module after finishing experiment.  Otherwise, burning code will be affected)
 
-### Project 8: Motor Driving and Speed Control
+## Project 8: Motor Driving and Speed Control
 
 (1) Description
 
@@ -1714,7 +1714,7 @@ void loop()
 
 After uploading the code successfully, do you find the motors rotate faster?
 
-### Project 9: 8*8 LED matrix
+## Project 9: 8*8 LED matrix
 
 **Description**
 
@@ -1784,7 +1784,7 @@ microcontroller, according to the above diagram.
 
 Introduction for Modulus Tool
 
-The online version of dot matrix modulus tool: [http://dotmatrixtool.com/\##](http://dotmatrixtool.com/)
+The online version of dot matrix modulus tool: [http://dotmatrixtool.com/\#](http://dotmatrixtool.com/)
 
 ① Open the link to enter the following page.
 
@@ -1864,7 +1864,7 @@ When uploading the code, plugging in, and turning on the robot car, the 8\*8 dot
 
 Let’s make dot matrix draw a heart-shaped pattern. What you need to do is entering the website and drawing the following pattern.
 
-[http://dotmatrixtool.com/\##](http://dotmatrixtool.com/)
+[http://dotmatrixtool.com/\#](http://dotmatrixtool.com/)
 
 ![](media/746028dc9efd3949b158e15542df4152.png)
 
@@ -1916,7 +1916,7 @@ Uploading code, plugging in and turning on the robot car, 8\*8 dot matrix shows 
 
 ![](media/956fb067b4041cb62be5deec34110846.png)
 
-### Project 10: Line Tracking Robot
+## Project 10: Line Tracking Robot
 
 ![](media/ad40150b9cd84f7848753cca5322a4c3.jpeg)
 
@@ -2043,7 +2043,7 @@ void Stop()//define the state of stop
 Uploading the code to the development board, plugging in and pressing the
 on-button of the robot car. Turtle car walks along black lines.
 
-### Project 11: Ultrasonic Follow Robot
+## Project 11: Ultrasonic Follow Robot
 
 ![](media/9dadf95320bb37fd2c4f35f5b03551d6.jpeg)
 
@@ -2153,7 +2153,7 @@ Uploading the code to the development board, and plugging in, and adjusting the 
 
 (This robot car can only moves forward and backward).
 
-### Project 12: Ultrasonic Avoiding Robot
+## Project 12: Ultrasonic Avoiding Robot
 
 ![](media/df4f5338366adbe9b9f6a90e0c092013.jpeg)
 
@@ -2347,7 +2347,7 @@ void matrix_display(unsigned char matrix_value[])
 
 Uploading the code on the keyestudio V4.0 board, wiring according to the connection diagram and turning on the robot car, the smart car can automatically avoid obstacles.
 
-### Project 13: IR Remote Control Robot
+## Project 13: IR Remote Control Robot
 
 ![](media/40c436f91b103dafa14c82c8459579a9.jpeg)
 
@@ -2519,7 +2519,7 @@ void matrix_display(unsigned char matrix_value[])
 
 Upload code and press buttons on IR remote control to make turtle robot car to move.
 
-### Project 14: Bluetooth Remote Control
+## Project 14: Bluetooth Remote Control
 
 **![](media/40c436f91b103dafa14c82c8459579a9.jpeg)**
 
@@ -2760,7 +2760,7 @@ Special Note: you need to remove the Bluetooth module before uploading the test 
 
 And the Bluetooth module can be reconnected after uploading code successfully.
 
-### Project 15: Multi-purpose Bluetooth Robot
+## Project 15: Multi-purpose Bluetooth Robot
 
 ![image-20230524102856893](media/image-20230524102856893.png)
 
@@ -3111,7 +3111,7 @@ Uploading code to development board, plugging in and turning on it , the turtle 
 
 
 
-## 9. Resources
+# 9. Resources
 
 Wiki page: <https://wiki.keyestudio.com/Main_Page>
 
