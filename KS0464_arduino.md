@@ -306,7 +306,7 @@ It contains everything needed to support the microcontroller; simply connect it 
 
 **[https://getting-started-with-arduino.readthedocs.io](https://getting-started-with-arduino.readthedocs.io/en/latest/Arduino%20IDE%20Tutorial.html)**
 
-# 8. Projects
+# 7. Projects
 
 The whole project begins with basic programs. Starting from simple to complex, the lessons will guide you to assemble the robot car and absorb the knowledge of electronic and machinery step by step. I reckon that you could hardly sit still and itch to have a go now. Let’s get started.
 
@@ -2957,7 +2957,7 @@ Uploading code to development board, plugging in and turning on it , the turtle 
 
 
 
-# 9. Resources
+# 8. Resources
 
 Wiki page: <https://wiki.keyestudio.com/Main_Page>
 
