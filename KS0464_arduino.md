@@ -267,25 +267,7 @@ Prepare the parts as follows:
 
 # 6. Getting Started with Arduino
 
-When you get control board, you need to download Arduino IDE and driver firstly.
-
-You could download Arduino IDE from the official website:
-
-<https://www.arduino.cc/>, click the **SOFTWARE** on the browse bar, click“DOWNLOADS” to enter download page, as shown below:
-
-![](media/4636aac9aca9b3aa9d86580caac51b81.png)
-
-There are various versions of IDE for Arduino. Just download a version compatible with your system. Here we will show you how to download and install the windows version of Arduino IDE.
-
-![](media/3d3e36e47f8c7009155f0e8cc256ead1.png)
-
-There are two versions of IDE for WINDOWS system. You can choose between the installer (.exe) and the Zip file. For installer, it can be directly downloaded, without the need of installing it manually while for Zip package, you will need to install the driver manually.
-
-![](media/745910f7138b08d5cbcb557f194b0679.png)
-
-Click JUST DOWNLOAD.
-
-**（1）Keyestudio V4.0 Development Board**
+**Keyestudio V4.0 Development Board**
 
 You need to know that keyestudio V4.0 development board is the core of this smart turtle robot .
 
@@ -316,149 +298,13 @@ It contains everything needed to support the microcontroller; simply connect it 
 | Clock Speed                 | 16 MHz                                                   |
 | LED_BUILTIN                 | D13                                                      |
 
-**（2）Installing V4.0 board Driver**
+**Installing Arduino IDE**
 
-Let’s install the driver of keyestudio V4.0 board. The USB-TTL chip on V4.0 board adopts CP2102 serial chip. The driver program of this chip is included in Arduino 1.8 version and above, which is convenient. Plug on USB port of board, the computer can recognize the hardware and automatically install the driver of CP2102.
+![](/media/ide.png)
 
-If you install it unsuccessfully, or intend to install it manually, please open the device manager of computer. Right click Computer----- Properties----- Device Manager
+**Click the link to start learning how to download software, install drivers, upload code, and install library files.**
 
-![](media/afa5b0dde9342bd7ad9f385333cb6f55.png)
-
-The yellow exclamation mark on the page implies an unsuccessful installation and you should double click the hardware and update the driver.
-
-![](media/c26ca0ef1bf1506c815b6e3e239cf525.png)
-
-Click“OK”to enter the following page, click“browse my computer for updated driver software”, find the installed or downloaded ARDUINO software. As shown below:
-
-![](media/4ec7a5ea3c8a1fd9663eef4768b687c5.png)
-
-There is a DRIVERS folder in Arduino software installed package（![](media/f50a31a59716594afbd7c2254cfd521e.png)), open driver folder and you can see the driver of CP210X series chips.
-
-Click“Browse”, then find the driver folder, or you could enter “driver” to search in rectangular box, then click“next”, the driver will be installed successfully. (I place Arduino software folder on the desktop, you could follow my suit.)
-
-![](media/417de936fa9720c7a7427c4d07718292.png)
-
-Open device manager, you will find the yellow exclamation mark disappear. The driver of CP2102 is installed successfully.
-
-![](media/efce0ba96c48d853f302730b4d481ee9.jpeg)
-
-![](media/2f751d5f4e4c0c18fa862c589eaaf0da.jpeg)
-
-**（3）Install other visions of driver**
-
-If your development board is Arduino board, install the driver as follows:
-
-Step 1: Plug in the development board, click Computer----- Properties----- Device Manager, you could see the unknown device is shown.
-
-![](media/e492989170473f2e77a97902f996d1ba.png)
-
-Step 2: Update the driver
-
-![](media/d7f62064e3eef1a4926cbc609253af5c.png)
-
-Step 3: click“browse my computer for updated driver software”
-
-![](media/9fd75e90e09605342e00b47bdd416654.png)
-
-Step 4: find out the folder where the ARDUINO software is installed, click **drivers** folder and tap“Next”
-
-![](media/9e9be87771ff1b78050d7f05f48063df.png)
-
-Step 5: the driver is installed successfully.
-
-![](media/56f5dff1b1242a47b9244357f5519ede.png)
-
-The device manager shows the serial port of Arduino.
-
-![](media/09e91fee277b7a69b8ad57ffa3294d48.png)
-
-**（4）Arduino IDE Setting**
-
-Click![](media/675ae7298ce0973df720b2fbbb514caa.png)icon，open Arduino IDE.
-
-![](media/e9a2d59afcff8121d18d8767326baa42.png)
-
-To avoid the errors when uploading the program to the board, you need to select the correct Arduino board that matches the board connected to your computer.
-
-Then come back to the Arduino software, you should click Tools→Board, select the board. (as shown below)
-
-![](media/84317a7babddff172520b99756dc1f85.png)
-
-Then select the correct COM port (you can see the corresponding COM port after the driver is successfully installed)
-
-![](media/bcd36a3d3e1209c16866e554089832d5.png)
-
-Before uploading the program to the board, let’s demonstrate the function of each symbol in the Arduino IDE toolbar.
-
-![](media/2598b31529ac4bff88630522b97b6c41.png)
-
-A- Used to verify whether there is any compiling mistakes or not.
-
-B- Used to upload the sketch to your Arduino board.
-
-C- Used to create shortcut window of a new sketch.
-
-D- Used to directly open an example sketch.
-
-E- Used to save the sketch.
-
-F- Used to send the serial data received from board to the serial monitor.
-
-**（5）Start First Program**
-
-Open the file to select Example, choose BLINK from BASIC, as shown below:
-
-![](media/2a6a0b8b8e2585776e01873caf10a1b0.png)
-
-![](media/6030cde1341c3432f0f4b1fb6c92e49e.png)
-
-Set board and COM port, the corresponding board and COM port are shown on the lower right of IDE.
-
-![](media/5c4521f3fa5c4f4c0a5c9d1581ab1580.png)
-
-Click![](media/ddd21c81338ae1f6b7f84de2a3caecf0.png)to start compiling the program, check errors.
-
-![](media/9948cd36a3b39cb57fd2bea79540c4b7.png)
-
-Click![](media/9c9158a5d49baa740ea2f0048f655017.png)to upload the program, upload successfully.
-
-![](media/60e002aacf662c1ecf88ad3ecd85e6ca.png)
-
-Upload the program successfully, the onboard LED lights on for 1s, lights off for 1s. Congratulation, you have finished the first program.
-
-# 7. Add project Libraries
-
-**(1) What are Libraries ?**
-
-[Libraries](https://www.arduino.cc/en/Reference/Libraries) are a collection of code that makes it easy for you to drive a sensor,display, module, etc.
-
-For example, the built-in LiquidCrystal library helps talk to LCD displays. There are hundreds of additional libraries available on the Internet for download.
-
-The built-in libraries and some of these additional libraries are listed in the reference.
-
-**(2) How to Install a Library ?**
-
-Here we will introduce the most simple way for you to add libraries .
-
-**Step 1:** After downloading well the Arduino IDE, you can right-click the icon of Arduino IDE.
-
-Find the option "Open file location" shown as below:
-
-![](media/f1d5fd3883e0997ca46dcf8513733c46.png)
-
-**Step 2:** Enter it to find out libraries folder, this folder is the library file of Arduino.
-
-![](media/a67a5b5921be4dbc1b0ce92627111d15.png)
-
-**Step 3:**  Next to find out the “libraries” folders of turtle robot (seen in the link: https://fs.keyestudio.com/KS0464), you just need to replicate and paste it into the libraries folder of Arduino IDE.
-
-![](media/b1fe94a7419edd3df2ebe0ac156829c5.png)
-
-![](media/a6a1619d23f0c59706f5d4f787ae9e60.png)
-
-Then the libraries of turtle robot are installed successfully, as shown below:
-
-![](media/fbbf98644e2391da69aaece3d59490fa.png)
+**[https://getting-started-with-arduino.readthedocs.io](https://getting-started-with-arduino.readthedocs.io/en/latest/Arduino%20IDE%20Tutorial.html)**
 
 # 8. Projects
 
