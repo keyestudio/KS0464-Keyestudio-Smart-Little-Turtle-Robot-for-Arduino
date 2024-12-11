@@ -1,4 +1,4 @@
-# **KS0464 Keyestudio Smart Little Turtle Robot V3**
+# <center> **KS0464 Keyestudio Smart Little Turtle Robot V3** </center>
 
 ![](media/78ea489a5ebfbfadfdf6d6e18dc5330b.png)
 
@@ -352,18 +352,21 @@ The expansion board is stacked on development board; LED module is connected to 
  Blink
  http://www.keyestudio.com
 */
+#define LED 9
+
 void setup()
 { 
-  pinMode(3, OUTPUT);// initialize digital pin 3 as an output.
+  pinMode(LED, OUTPUT);// initialize digital pin 9 as an output.
 }
 
 void loop() // the loop function runs over and over again forever
 {  
-  digitalWrite(3, HIGH); // turn the LED on (HIGH is the voltage level)
+  digitalWrite(LED, HIGH); // turn the LED on (HIGH is the voltage level)
   delay(1000); // wait for a second
-  digitalWrite(3, LOW); // turn the LED off by making the voltage LOW
+  digitalWrite(LED, LOW); // turn the LED off by making the voltage LOW
   delay(1000); // wait for a second
 }
+//****************************************************************************
 ```
 
 （6）**Test Result**
@@ -387,19 +390,23 @@ We have succeeded in blinking LED. Next, let’s observe what will happen to the
  delay
  http://www.keyestudio.com
 */
+#define LED 9
+
 void setup()
 {  
   // initialize digital pin 11 as an output.
-  pinMode(3, OUTPUT);
+  pinMode(LED, OUTPUT);
 }
 // the loop function runs over and over again forever
 void loop()
 { 
-  digitalWrite(3, HIGH); // turn the LED on (HIGH is the voltage level)
+  digitalWrite(LED, HIGH); // turn the LED on (HIGH is the voltage level)
   delay(100); // wait for 0.1 second
-  digitalWrite(3, LOW); // turn the LED off by making the voltage LOW
+  digitalWrite(LED, LOW); // turn the LED off by making the voltage LOW
   delay(100); // wait for 0.1 second
 }
+//*****************************************************************
+
 ```
 
 The test result shows that the LED flashes faster. Therefore, pins and time
@@ -440,7 +447,7 @@ If output five hundred 1, that is 5V; if all of which is 1, that is 0V. If outpu
  pwm
  http://www.keyestudio.com
 */
-int ledPin = 3; // Define the LED pin at D3
+int ledPin = 9; // Define the LED pin at D9
 int value;
 
 void setup () {
@@ -528,7 +535,7 @@ Let’s modify the value of delay and remain the pin unchanged, then observe how
  pwm
  http://www.keyestudio.com
 */
-int ledPin = 3; // Define the LED pin at D3
+int ledPin = 9; // Define the LED pin at D9
 void setup () {
    pinMode(ledPin, OUTPUT); // initialize ledpin as an output.
 }
@@ -595,7 +602,7 @@ lesson 3.1
  Line Track sensor
  http://www.keyestudio.com
 */
-int L_pin = 6;  //pins of  left line tracking sensor
+int L_pin = 11;  //pins of  left line tracking sensor
 int M_pin = 7;  //pins of  middle line tracking sensor
 int R_pin = 8;  //pins of  right  line tracking sensor
 int val_L,val_R,val_M;// define the variable value of three sensors
@@ -652,7 +659,7 @@ lesson 3.2
  Line Track sensor
  http://www.keyestudio.com
 */
-int L_pin = 6;  //pins of  left line tracking sensor
+int L_pin = 11;  //pins of  left line tracking sensor
 int M_pin = 7;  //pins of  middle line tracking sensor
 int R_pin = 8;  //pins of  right line tracking sensor
 int val_L,val_R,val_M;// define the variables of three sensors 
@@ -975,7 +982,7 @@ We need to divide the traveltime by 2 because we have to take into account that 
 
 **Extension Practice**
 
-We have just measured the distance displayed by the ultrasonic. How about controlling the LED with the measured distance? Let's try it and connect an LED light module to the D3 pin.
+We have just measured the distance displayed by the ultrasonic. How about controlling the LED with the measured distance? Let's try it and connect an LED light module to the D9 pin.
 
 ![](media/c949128ff9323a4c2469ccefa734eedb.png)
 
@@ -1075,9 +1082,9 @@ Components required
 
 Connection Diagram
 
-![image-20230413102624984](media/image-20230413102624984.png)
+![image-20230413102624984](./media/image-20230413102624984.png)
 
-Respectively link“-”,“+”and S of IR receiver module with G(GND）, V（VCC）and A0 of keyestudio development board.
+Respectively link“-”,“+”and S of IR receiver module with G(GND）, V（VCC）and A1 of keyestudio development board.
 
 Attention: On the condition that digital ports are not available, analog ports can be regarded as digital ports. A0 equals to D14, A1 is equivalent to digital.
 
@@ -1091,7 +1098,7 @@ Import the library of IR receiver firstly before editing test code.
  http://www.keyestudio.com
 */ 
 #include <IRremote.h>     //IRremote library statement  
-int RECV_PIN = A1;        //define the pins of IR receiver as A0
+int RECV_PIN = A1;        //define the pins of IR receiver as A1
 IRrecv irrecv(RECV_PIN);   
 decode_results results;   // decode results exist in the“result” of “decode results”
 void setup()  
@@ -1130,9 +1137,9 @@ Extension Practice
 
 We decoded the key value of IR remote control. How about controlling LED by the measured value? We could design an experiment.
 
-Attach an LED to D3, then press the keys of remote control to make LED light on and off.
+Attach an LED to D9, then press the keys of remote control to make LED light on and off.
 
-![](media/fe100b9ca4774cea8800901786866ffa.png)
+![](./media/fe100b9ca4774cea8800901786866ffa.png)
 
 ```c++
 /* 
@@ -1143,7 +1150,7 @@ http://www.keyestudio.com
 */ 
 #include <IRremote.h>
 int RECV_PIN = A1;//define the pin of IR receiver as A1
-int LED_PIN=3;//define the pin of LED as pin 3
+int LED_PIN = 9;//define the pin of LED as pin 3
 int a=0;
 IRrecv irrecv(RECV_PIN);
 decode_results results;
@@ -1343,7 +1350,7 @@ We could send a command via Bluetooth to turn a LED on and off. D9 is connected 
  Bluetooth 
  http://www.keyestudio.com
 */ 
-int ledpin=3;
+int ledpin = 9;
 
 void setup()
 {
@@ -1406,7 +1413,7 @@ Circuit Diagram for L298P Board
 
 5.  Maximum power dissipation: 25W (T=75℃)
 
-6.  Working temperature: -25℃～＋130℃
+6.  Working temperature: 0℃～＋50℃
 
 7.  Control signal input level: high level 2.3V\<Vin\<5V, low level \-0.3V\<Vin\<1.5V
 
@@ -1442,7 +1449,7 @@ PWM drives the robot car. The PWM value is in the range of 0-255. The larger the
  http://www.keyestudio.com
 */ 
 #define ML_Ctrl 2     //define the direction control pin of A motor
-#define ML_PWM 9   //define the PWM control pin of A motor
+#define ML_PWM 6   //define the PWM control pin of A motor
 #define MR_Ctrl 4    //define the direction control pin of B motor
 #define MR_PWM 5   //define the PWM control pin of B motor
 
@@ -1508,7 +1515,7 @@ Adjust the speed that PWM controls the motor, hook up in the same way.
  http://www.keyestudio.com
 */ 
 #define ML_Ctrl  2   //define the direction control pin of A motor
-#define ML_PWM 9   //define the PWM control pin of A motor
+#define ML_PWM 6   //define the PWM control pin of A motor
 #define MR_Ctrl  4   //define the direction control pin of B motor
 #define MR_PWM 5   //define the PWM control pin of B motor
 
@@ -1796,10 +1803,10 @@ Flow Chart
  http://www.keyestudio.com
 */ 
 int left_ctrl = 2;//define direction control pin of A motor
- int left_pwm = 9;//define PWM control pin of A motor
+ int left_pwm = 6;//define PWM control pin of A motor
  int right_ctrl = 4;//define direction control pin of B motor
  int right_pwm = 5;//define PWM control pin of B motor
- int sensor_l = 6;//define the pin of left line tracking sensor
+ int sensor_l = 11;//define the pin of left line tracking sensor
  int sensor_c = 7;//define the pin of middle line tracking sensor
  int sensor_r = 8;//define the pin of right line tracking sensor
 int l_val,c_val,r_val;//define these variables
@@ -1920,7 +1927,7 @@ Hook-up Diagram
 */ 
 
  int left_ctrl = 2;//define the direction control pin of A motor
- int left_pwm = 9;//define the speed control pin of A motor
+ int left_pwm = 6;//define the speed control pin of A motor
  int right_ctrl = 4;//define the direction control pin of B motor
  int right_pwm = 5;//define the speed control pin of B motor
 #include "SR04.h" //define the function library of ultrasonic sensor
@@ -2040,7 +2047,7 @@ uint8_t matrix_right2[8]={0x12,0x24,0x48,0x90,0x90,0x48,0x24,0x12};
 uint8_t matrix_stop2[8]={0x18,0x18,0x18,0x18,0x18,0x00,0x18,0x18};
 uint8_t  LEDArray[8];
 const int left_ctrl = 2;//define direction control pin of A motor
-const int left_pwm = 9;//define PWM control pin of A motor
+const int left_pwm = 6;//define PWM control pin of A motor
 const int right_ctrl = 4;//define direction control pin of B motor
 const int right_pwm = 5;//define PWM control pin of B motor
 #include "SR04.h"//define the library of ultrasonic sensor
@@ -2250,9 +2257,9 @@ uint8_t  LEDArray[8];
 const int left_ctrl = 4;//define the direction control pin of A motor
 const int left_pwm = 5;//define the speed control of A motor
 const int right_ctrl = 2;//define the direction control pin of B motor 
-const int right_pwm = 9;//define the speed control pin of B motor 
+const int right_pwm = 6;//define the speed control pin of B motor 
 #include <IRremote.h>//function library of IR remote control
-int RECV_PIN = A0;//set the pin of IR receiver to A0
+int RECV_PIN = A1;//set the pin of IR receiver to A0
 IRrecv irrecv(RECV_PIN);
 long irr_val;
 decode_results results;
@@ -2490,7 +2497,7 @@ uint8_t  LEDArray[8];
 unsigned char data_line = 0;
 unsigned char delay_count = 0;
 const int left_ctrl = 2;//define direction control pin of A motor
-const int left_pwm = 9;//define PWM control pin of A motor
+const int left_pwm = 6;//define PWM control pin of A motor
 const int right_ctrl = 4;//define direction control pin of B motor
 const int right_pwm = 5;//define PWM control pin of B motor
 char BLE_val;
@@ -2648,10 +2655,10 @@ uint8_t  LEDArray[8];
 SR04 sr04 = SR04(ECHO_PIN,TRIG_PIN);
 long distance,distance1,distance2,distance3;
 const int left_ctrl = 2;
-const int left_pwm = 9;
+const int left_pwm = 6;
 const int right_ctrl = 4;
 const int right_pwm = 5;
-const int sensor_l = 6;
+const int sensor_l = 11;
 const int sensor_c = 7;
 const int sensor_r = 8;
 int l_val,c_val,r_val;
